@@ -1,0 +1,1231 @@
+2018-03-11 06:27 INFO     download      Movies          Downloading: Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-11 06:27 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 3 Undecided: 6 Failed: 0)
+2018-03-11 06:27 INFO     transmission  Movies          "Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-11 06:27 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-11 10:38 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-11 10:38 VERBOSE  details       TV              Produced 4 entries.
+2018-03-11 10:38 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-11 10:38 VERBOSE  task          TV              REJECTED: `American Crime Story 2x07 Ascent 720p` by seen plugin because entry with title `American Crime Story 2x07 Ascent 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-11 10:38 VERBOSE  task          TV              REJECTED: `The X Files 11x08 Familiar 720p` by seen plugin because entry with title `The X Files 11x08 Familiar 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-11 10:38 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x11 All the Comforts of Home 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x11 All the Comforts of Home 720p` is already marked seen in the task TV at 2018-03-03 13:50
+2018-03-11 10:38 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-11 10:38 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-11 10:38 VERBOSE  task          Movies          REJECTED: `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-11 06:27
+2018-03-11 10:38 VERBOSE  task          Movies          REJECTED: `The Woman Who Left (2016) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Woman Who Left (2016) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-10 12:06
+2018-03-11 10:38 VERBOSE  task          Movies          REJECTED: `The Outsider (2018) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `The Outsider (2018) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-10 12:06
+2018-03-11 10:38 VERBOSE  task          Movies          REJECTED: `Love Per Square Foot (2018) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `Love Per Square Foot (2018) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-10 12:06
+2018-03-11 10:38 INFO     imdb          Movies          Didn't accept `Paris, Texas` because of rule(s) min_year (1984 < 2016)
+2018-03-11 10:38 INFO     imdb          Movies          Didn't accept `No Man's Land` because of rule(s) min_year (1987 < 2016)
+2018-03-11 10:38 INFO     imdb          Movies          Didn't accept `Metropolitan` because of rule(s) min_year (1990 < 2016)
+2018-03-11 10:38 INFO     imdb          Movies          Didn't accept `Dead Reckoning` because of rule(s) min_year (1947 < 2016)
+2018-03-11 10:38 INFO     imdb          Movies          Didn't accept `Bent` because of rule(s) min_score (5.5 < 6.1), min_votes (69 < 500)
+2018-03-11 10:38 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 4 Undecided: 5 Failed: 0)
+2018-03-11 13:03 WARNING  manager                       Your locale declares ascii as the filesystem encoding. Any plugins reading filenames from disk will not work properly for filenames containing non-ascii characters. Make sure your locale env variables are set up correctly for the environment which is launching FlexGet.
+2018-03-11 13:04 WARNING  manager                       Your locale declares ascii as the filesystem encoding. Any plugins reading filenames from disk will not work properly for filenames containing non-ascii characters. Make sure your locale env variables are set up correctly for the environment which is launching FlexGet.
+2018-03-11 13:05 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-11 13:05 VERBOSE  details       TV              Produced 4 entries.
+2018-03-11 13:05 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-11 13:05 VERBOSE  task          TV              REJECTED: `American Crime Story 2x07 Ascent 720p` by seen plugin because entry with title `American Crime Story 2x07 Ascent 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-11 13:05 VERBOSE  task          TV              REJECTED: `The X Files 11x08 Familiar 720p` by seen plugin because entry with title `The X Files 11x08 Familiar 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-11 13:05 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x11 All the Comforts of Home 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x11 All the Comforts of Home 720p` is already marked seen in the task TV at 2018-03-03 13:50
+2018-03-11 13:05 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-11 13:05 VERBOSE  details       Movies          Produced 8 entries.
+2018-03-11 13:05 VERBOSE  task          Movies          REJECTED: `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-11 06:27
+2018-03-11 13:05 VERBOSE  task          Movies          REJECTED: `The Woman Who Left (2016) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Woman Who Left (2016) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-10 12:06
+2018-03-11 13:05 VERBOSE  task          Movies          REJECTED: `The Outsider (2018) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `The Outsider (2018) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-10 12:06
+2018-03-11 13:05 VERBOSE  task          Movies          REJECTED: `Love Per Square Foot (2018) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `Love Per Square Foot (2018) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-10 12:06
+2018-03-11 13:05 INFO     imdb          Movies          Didn't accept `Paris, Texas` because of rule(s) min_year (1984 < 2016)
+2018-03-11 13:05 INFO     imdb          Movies          Didn't accept `No Man's Land` because of rule(s) min_year (1987 < 2016)
+2018-03-11 13:05 INFO     imdb          Movies          Didn't accept `Metropolitan` because of rule(s) min_year (1990 < 2016)
+2018-03-11 13:05 INFO     imdb          Movies          Didn't accept `Dead Reckoning` because of rule(s) min_year (1947 < 2016)
+2018-03-11 13:05 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 4 Undecided: 4 Failed: 0)
+2018-03-12 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-12 06:25 VERBOSE  details       TV              Produced 4 entries.
+2018-03-12 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-12 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x07 Ascent 720p` by seen plugin because entry with title `American Crime Story 2x07 Ascent 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-12 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x08 Familiar 720p` by seen plugin because entry with title `The X Files 11x08 Familiar 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-12 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x11 All the Comforts of Home 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x11 All the Comforts of Home 720p` is already marked seen in the task TV at 2018-03-03 13:50
+2018-03-12 06:25 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-12 06:25 VERBOSE  details       Movies          Produced 10 entries.
+2018-03-12 06:25 VERBOSE  task          Movies          REJECTED: `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-11 06:27
+2018-03-12 06:25 VERBOSE  task          Movies          REJECTED: `The Woman Who Left (2016) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Woman Who Left (2016) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-10 12:06
+2018-03-12 06:25 VERBOSE  task          Movies          REJECTED: `The Outsider (2018) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `The Outsider (2018) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-10 12:06
+2018-03-12 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Drowning Pool (1975) [BluRay] [1080p] [YTS.AM]`
+2018-03-12 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0072912/
+2018-03-12 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Drowning Pool (1975) [BluRay] [1080p] [YTS.AM]`
+2018-03-12 06:26 INFO     imdb          Movies          Didn't accept `The Drowning Pool` because of rule(s) min_year (1975 < 2016)
+2018-03-12 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Cotton Club (1984) [BluRay] [1080p] [YTS.AM]`
+2018-03-12 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0087089/
+2018-03-12 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Cotton Club (1984) [BluRay] [1080p] [YTS.AM]`
+2018-03-12 06:26 INFO     imdb          Movies          Didn't accept `The Cotton Club` because of rule(s) min_year (1984 < 2016), reject_genres
+2018-03-12 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `Quadrophenia (1979) [BluRay] [1080p] [YTS.AM]`
+2018-03-12 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0079766/
+2018-03-12 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Quadrophenia (1979) [BluRay] [1080p] [YTS.AM]`
+2018-03-12 06:26 INFO     imdb          Movies          Didn't accept `Quadrophenia` because of rule(s) min_year (1979 < 2016), reject_genres
+2018-03-12 06:26 INFO     imdb          Movies          Didn't accept `Paris, Texas` because of rule(s) min_year (1984 < 2016)
+2018-03-12 06:26 INFO     imdb          Movies          Didn't accept `No Man's Land` because of rule(s) min_year (1987 < 2016)
+2018-03-12 06:26 INFO     imdb          Movies          Didn't accept `Metropolitan` because of rule(s) min_year (1990 < 2016)
+2018-03-12 06:26 INFO     imdb          Movies          Didn't accept `Dead Reckoning` because of rule(s) min_year (1947 < 2016)
+2018-03-12 06:26 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 3 Undecided: 7 Failed: 0)
+2018-03-13 06:25 CRITICAL manager                       [/tasks/Movies/exists_movie/path] `/mnt/timecapsule/Videos/Movies` does not exist
+2018-03-13 06:25 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2018-03-14 01:43 WARNING  manager                       Your locale declares ascii as the filesystem encoding. Any plugins reading filenames from disk will not work properly for filenames containing non-ascii characters. Make sure your locale env variables are set up correctly for the environment which is launching FlexGet.
+2018-03-14 01:44 CRITICAL manager                       [/tasks/Movies/exists_movie/path] `/mnt/timecapsule/Videos/Movies` does not exist
+2018-03-14 01:44 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2018-03-14 01:44 WARNING  manager                       Your locale declares ascii as the filesystem encoding. Any plugins reading filenames from disk will not work properly for filenames containing non-ascii characters. Make sure your locale env variables are set up correctly for the environment which is launching FlexGet.
+2018-03-14 01:44 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-14 01:44 VERBOSE  details       TV              Produced 3 entries.
+2018-03-14 01:44 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-14 01:44 VERBOSE  task          TV              REJECTED: `American Crime Story 2x07 Ascent 720p` by seen plugin because entry with title `American Crime Story 2x07 Ascent 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-14 01:44 VERBOSE  task          TV              REJECTED: `The X Files 11x08 Familiar 720p` by seen plugin because entry with title `The X Files 11x08 Familiar 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-14 01:44 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 3 Undecided: 0 Failed: 0)
+2018-03-14 01:45 VERBOSE  details       Movies          Produced 8 entries.
+2018-03-14 01:45 VERBOSE  task          Movies          REJECTED: `Annihilation (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Searching from imdb `Life Is Sweet (1990) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0100024/
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Life Is Sweet (1990) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:45 INFO     imdb          Movies          Didn't accept `Life Is Sweet` because of rule(s) min_year (1990 < 2016)
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Searching from imdb `Fassbinder (2015) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt4536540/
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Fassbinder (2015) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:45 INFO     imdb          Movies          Didn't accept `Fassbinder` because of rule(s) min_votes (126 < 500), min_year (2015 < 2016)
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Searching from imdb `Ladybird Ladybird (1994) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0110296/
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Ladybird Ladybird (1994) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:45 INFO     imdb          Movies          Didn't accept `Ladybird Ladybird` because of rule(s) min_year (1994 < 2016)
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Searching from imdb `Takeshis' (2005) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0478044/
+2018-03-14 01:45 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Takeshis' (2005) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:46 INFO     imdb          Movies          Didn't accept `Takeshis'` because of rule(s) min_year (2005 < 2016)
+2018-03-14 01:46 VERBOSE  imdb_lookup   Movies          Searching from imdb `Ride with the Devil (1999) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:46 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0134154/
+2018-03-14 01:46 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Ride with the Devil (1999) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:46 INFO     imdb          Movies          Didn't accept `Ride with the Devil` because of rule(s) min_year (1999 < 2016)
+2018-03-14 01:46 VERBOSE  imdb_lookup   Movies          Searching from imdb `Chiefs (1968) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:46 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt7731700/
+2018-03-14 01:46 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Chiefs (1968) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:46 INFO     imdb          Movies          Didn't accept `Chiefs` because of rule(s) min_score (0.0 < 6.1), min_votes (0 < 500), min_year (0 < 2016)
+2018-03-14 01:46 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Nile Hilton Incident (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:46 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5540188/
+2018-03-14 01:46 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Nile Hilton Incident (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 01:46 VERBOSE  task          Movies          ACCEPTED: `The Nile Hilton Incident (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-14 01:46 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-14 01:46 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-03-14 01:46 INFO     download      Movies          Downloading: The Nile Hilton Incident (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-14 01:46 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 1 Undecided: 6 Failed: 0)
+2018-03-14 01:46 INFO     transmission  Movies          "The Nile Hilton Incident (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-14 01:46 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-14 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-14 06:25 VERBOSE  details       TV              Produced 3 entries.
+2018-03-14 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-14 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x07 Ascent 720p` by seen plugin because entry with title `American Crime Story 2x07 Ascent 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-14 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x08 Familiar 720p` by seen plugin because entry with title `The X Files 11x08 Familiar 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-14 06:25 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 3 Undecided: 0 Failed: 0)
+2018-03-14 06:25 VERBOSE  details       Movies          Produced 8 entries.
+2018-03-14 06:25 VERBOSE  task          Movies          REJECTED: `Annihilation (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-14 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `Shock Corridor (1963) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0057495/
+2018-03-14 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Shock Corridor (1963) [BluRay] [1080p] [YTS.AM]`
+2018-03-14 06:25 INFO     imdb          Movies          Didn't accept `Shock Corridor` because of rule(s) min_year (1963 < 2016)
+2018-03-14 06:25 INFO     imdb          Movies          Didn't accept `Life Is Sweet` because of rule(s) min_year (1990 < 2016)
+2018-03-14 06:25 INFO     imdb          Movies          Didn't accept `Fassbinder` because of rule(s) min_votes (126 < 500), min_year (2015 < 2016)
+2018-03-14 06:25 INFO     imdb          Movies          Didn't accept `Ladybird Ladybird` because of rule(s) min_year (1994 < 2016)
+2018-03-14 06:25 INFO     imdb          Movies          Didn't accept `Takeshis'` because of rule(s) min_year (2005 < 2016)
+2018-03-14 06:25 INFO     imdb          Movies          Didn't accept `Ride with the Devil` because of rule(s) min_year (1999 < 2016)
+2018-03-14 06:25 INFO     imdb          Movies          Didn't accept `Chiefs` because of rule(s) min_score (0.0 < 6.1), min_votes (0 < 500), min_year (0 < 2016)
+2018-03-14 06:25 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 1 Undecided: 7 Failed: 0)
+2018-03-15 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-15 06:25 VERBOSE  details       TV              Produced 5 entries.
+2018-03-15 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-15 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x07 Ascent 720p` by seen plugin because entry with title `American Crime Story 2x07 Ascent 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-15 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x08 Familiar 720p` by seen plugin because entry with title `The X Files 11x08 Familiar 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-15 06:25 VERBOSE  task          TV              ACCEPTED: `The X Files 11x09 Nothing Lasts Forever 720p` by series plugin because choosing best available quality
+2018-03-15 06:25 VERBOSE  task          TV              ACCEPTED: `American Crime Story 2x08 Creator / Destroyer 720p` by series plugin because choosing best available quality
+2018-03-15 06:25 VERBOSE  details       TV              Summary - Accepted: 2 (Rejected: 3 Undecided: 0 Failed: 0)
+2018-03-15 06:25 INFO     transmission  TV              "American Crime Story 2x08 Creator / Destroyer 720p" torrent added to transmission
+2018-03-15 06:25 INFO     transmission  TV              "The X Files 11x09 Nothing Lasts Forever 720p" torrent added to transmission
+2018-03-15 06:25 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-03-15 06:25 VERBOSE  utils.requests TV              Waiting 4.01 seconds until next request to pushover.net
+2018-03-15 06:25 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-03-15 06:25 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-15 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `To Rome with Love (2012) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1859650/
+2018-03-15 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `To Rome with Love (2012) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:26 INFO     imdb          Movies          Didn't accept `To Rome with Love` because of rule(s) min_year (2012 < 2016)
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `Beyond a Reasonable Doubt (1956) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0049006/
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Beyond a Reasonable Doubt (1956) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:26 INFO     imdb          Movies          Didn't accept `Beyond a Reasonable Doubt` because of rule(s) min_year (1956 < 2016)
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `Iron Men (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt6440810/
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Iron Men (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:26 INFO     imdb          Movies          Didn't accept `Iron Men` because of rule(s) min_votes (52 < 500)
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `Seconds (1966) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0060955/
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Seconds (1966) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:26 INFO     imdb          Movies          Didn't accept `Seconds` because of rule(s) min_year (1966 < 2016)
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `Black Bread (2010) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1454523/
+2018-03-15 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Black Bread (2010) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:27 INFO     imdb          Movies          Didn't accept `Black Bread` because of rule(s) min_year (2010 < 2016)
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Searching from imdb `Won't Back Down (2012) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1870529/
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Won't Back Down (2012) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:27 INFO     imdb          Movies          Didn't accept `Won't Back Down` because of rule(s) min_year (2012 < 2016)
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Way of the Dragon (1972) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0068935/
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Way of the Dragon (1972) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:27 INFO     imdb          Movies          Didn't accept `The Way of the Dragon` because of rule(s) min_year (1972 < 2016)
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Searching from imdb `Still Walking (2008) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1087578/
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Still Walking (2008) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:27 INFO     imdb          Movies          Didn't accept `Still Walking` because of rule(s) min_year (2008 < 2016)
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Searching from imdb `Something Wild (1986) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0091983/
+2018-03-15 06:27 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Something Wild (1986) [BluRay] [1080p] [YTS.AM]`
+2018-03-15 06:28 INFO     imdb          Movies          Didn't accept `Something Wild` because of rule(s) min_year (1986 < 2016)
+2018-03-15 06:28 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 0 Undecided: 9 Failed: 0)
+2018-03-16 00:18 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-16 00:18 VERBOSE  details       TV              Produced 5 entries.
+2018-03-16 00:18 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-16 00:18 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-16 00:18 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-16 00:18 VERBOSE  task          TV              REJECTED: `American Crime Story 2x07 Ascent 720p` by seen plugin because entry with title `American Crime Story 2x07 Ascent 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-16 00:18 VERBOSE  task          TV              REJECTED: `The X Files 11x08 Familiar 720p` by seen plugin because entry with title `The X Files 11x08 Familiar 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-16 00:18 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-03-16 00:18 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-16 00:18 VERBOSE  imdb_lookup   Movies          Searching from imdb `Journey to the West (2014) [BluRay] [1080p] [YTS.AM]`
+2018-03-16 00:18 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt3521442/
+2018-03-16 00:18 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Journey to the West (2014) [BluRay] [1080p] [YTS.AM]`
+2018-03-16 00:18 INFO     imdb          Movies          Didn't accept `Journey to the West` because of rule(s) min_year (2014 < 2016)
+2018-03-16 00:18 VERBOSE  imdb_lookup   Movies          Searching from imdb `While the City Sleeps (1956) [BluRay] [1080p] [YTS.AM]`
+2018-03-16 00:18 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0049949/
+2018-03-16 00:18 VERBOSE  imdb_lookup   Movies          Parsing imdb for `While the City Sleeps (1956) [BluRay] [1080p] [YTS.AM]`
+2018-03-16 00:18 INFO     imdb          Movies          Didn't accept `While the City Sleeps` because of rule(s) min_year (1956 < 2016)
+2018-03-16 00:18 INFO     imdb          Movies          Didn't accept `To Rome with Love` because of rule(s) min_year (2012 < 2016)
+2018-03-16 00:18 INFO     imdb          Movies          Didn't accept `Beyond a Reasonable Doubt` because of rule(s) min_year (1956 < 2016)
+2018-03-16 00:18 INFO     imdb          Movies          Didn't accept `Iron Men` because of rule(s) min_votes (52 < 500)
+2018-03-16 00:18 INFO     imdb          Movies          Didn't accept `Seconds` because of rule(s) min_year (1966 < 2016)
+2018-03-16 00:18 INFO     imdb          Movies          Didn't accept `Black Bread` because of rule(s) min_year (2010 < 2016)
+2018-03-16 00:18 INFO     imdb          Movies          Didn't accept `Won't Back Down` because of rule(s) min_year (2012 < 2016)
+2018-03-16 00:18 INFO     imdb          Movies          Didn't accept `The Way of the Dragon` because of rule(s) min_year (1972 < 2016)
+2018-03-16 00:18 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 0 Undecided: 9 Failed: 0)
+2018-03-16 06:25 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2018-03-16 06:25 VERBOSE  details       TV              Produced 5 entries.
+2018-03-16 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-16 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-16 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-16 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x07 Ascent 720p` by seen plugin because entry with title `American Crime Story 2x07 Ascent 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-16 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x08 Familiar 720p` by seen plugin because entry with title `The X Files 11x08 Familiar 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-16 06:25 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-03-16 06:25 VERBOSE  details       Movies          Produced 8 entries.
+2018-03-16 06:25 INFO     imdb          Movies          Didn't accept `Journey to the West` because of rule(s) min_year (2014 < 2016)
+2018-03-16 06:25 INFO     imdb          Movies          Didn't accept `While the City Sleeps` because of rule(s) min_year (1956 < 2016)
+2018-03-16 06:25 INFO     imdb          Movies          Didn't accept `To Rome with Love` because of rule(s) min_year (2012 < 2016)
+2018-03-16 06:25 INFO     imdb          Movies          Didn't accept `Beyond a Reasonable Doubt` because of rule(s) min_year (1956 < 2016)
+2018-03-16 06:25 INFO     imdb          Movies          Didn't accept `Iron Men` because of rule(s) min_votes (52 < 500)
+2018-03-16 06:25 INFO     imdb          Movies          Didn't accept `Seconds` because of rule(s) min_year (1966 < 2016)
+2018-03-16 06:25 INFO     imdb          Movies          Didn't accept `Black Bread` because of rule(s) min_year (2010 < 2016)
+2018-03-16 06:25 INFO     imdb          Movies          Didn't accept `Won't Back Down` because of rule(s) min_year (2012 < 2016)
+2018-03-16 06:25 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 0 Undecided: 8 Failed: 0)
+2018-03-17 01:59 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2018-03-17 01:59 VERBOSE  details       TV              Produced 4 entries.
+2018-03-17 01:59 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-17 01:59 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-17 01:59 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-17 01:59 VERBOSE  task          TV              REJECTED: `American Crime Story 2x07 Ascent 720p` by seen plugin because entry with title `American Crime Story 2x07 Ascent 720p` is already marked seen in the task TV at 2018-03-08 06:25
+2018-03-17 01:59 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-17 01:59 VERBOSE  details       Movies          Produced 8 entries.
+2018-03-17 01:59 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Monkey King 2 (2016) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 01:59 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt4591310/
+2018-03-17 01:59 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Monkey King 2 (2016) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 01:59 INFO     imdb          Movies          Didn't accept `The Monkey King 2` because of rule(s) min_score (6.0 < 6.1)
+2018-03-17 01:59 VERBOSE  imdb_lookup   Movies          Searching from imdb `Ferrari 312B: Where the Revolution Begins (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 01:59 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt7017474/
+2018-03-17 01:59 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Ferrari 312B: Where the Revolution Begins (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 02:00 INFO     imdb          Movies          Didn't accept `Ferrari 312B: Where the Revolution Begins` because of rule(s) min_votes (42 < 500)
+2018-03-17 02:00 VERBOSE  imdb_lookup   Movies          Searching from imdb `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 02:00 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt6548966/
+2018-03-17 02:00 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 02:00 VERBOSE  task          Movies          ACCEPTED: `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-17 02:00 VERBOSE  imdb_lookup   Movies          Searching from imdb `24 City (2008) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 02:00 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1103963/
+2018-03-17 02:00 VERBOSE  imdb_lookup   Movies          Parsing imdb for `24 City (2008) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 02:00 INFO     imdb          Movies          Didn't accept `24 City` because of rule(s) min_year (2008 < 2016)
+2018-03-17 02:00 INFO     imdb          Movies          Didn't accept `Journey to the West` because of rule(s) min_year (2014 < 2016)
+2018-03-17 02:00 INFO     imdb          Movies          Didn't accept `While the City Sleeps` because of rule(s) min_year (1956 < 2016)
+2018-03-17 02:00 INFO     imdb          Movies          Didn't accept `To Rome with Love` because of rule(s) min_year (2012 < 2016)
+2018-03-17 02:00 INFO     imdb          Movies          Didn't accept `Beyond a Reasonable Doubt` because of rule(s) min_year (1956 < 2016)
+2018-03-17 02:00 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-17 02:00 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-03-17 02:00 INFO     download      Movies          Downloading: Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-17 02:00 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 0 Undecided: 7 Failed: 0)
+2018-03-17 02:00 INFO     transmission  Movies          "Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-17 02:00 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-17 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-17 06:25 VERBOSE  details       TV              Produced 4 entries.
+2018-03-17 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-17 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-17 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-17 06:25 VERBOSE  task          TV              ACCEPTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by series plugin because choosing best available quality
+2018-03-17 06:25 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 3 Undecided: 0 Failed: 0)
+2018-03-17 06:25 INFO     transmission  TV              "Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p" torrent added to transmission
+2018-03-17 06:25 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-03-17 06:25 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-17 06:25 VERBOSE  task          Movies          REJECTED: `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-17 02:00
+2018-03-17 06:25 INFO     imdb          Movies          Didn't accept `The Monkey King 2` because of rule(s) min_score (6.0 < 6.1)
+2018-03-17 06:25 INFO     imdb          Movies          Didn't accept `Ferrari 312B: Where the Revolution Begins` because of rule(s) min_votes (42 < 500)
+2018-03-17 06:25 INFO     imdb          Movies          Didn't accept `24 City` because of rule(s) min_year (2008 < 2016)
+2018-03-17 06:25 INFO     imdb          Movies          Didn't accept `Journey to the West` because of rule(s) min_year (2014 < 2016)
+2018-03-17 06:25 INFO     imdb          Movies          Didn't accept `While the City Sleeps` because of rule(s) min_year (1956 < 2016)
+2018-03-17 06:25 INFO     imdb          Movies          Didn't accept `To Rome with Love` because of rule(s) min_year (2012 < 2016)
+2018-03-17 06:25 INFO     imdb          Movies          Didn't accept `Beyond a Reasonable Doubt` because of rule(s) min_year (1956 < 2016)
+2018-03-17 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Strangers (2008) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0482606/
+2018-03-17 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Strangers (2008) [BluRay] [1080p] [YTS.AM]`
+2018-03-17 06:25 INFO     imdb          Movies          Didn't accept `The Strangers` because of rule(s) min_year (2008 < 2016)
+2018-03-17 06:25 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 1 Undecided: 8 Failed: 0)
+2018-03-18 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-18 06:25 VERBOSE  details       TV              Produced 4 entries.
+2018-03-18 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-18 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-18 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-18 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-18 06:25 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-18 06:25 VERBOSE  details       Movies          Produced 11 entries.
+2018-03-18 06:25 VERBOSE  task          Movies          REJECTED: `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-17 02:00
+2018-03-18 06:25 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-18 06:25 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-18 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-18 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5208216/
+2018-03-18 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-18 06:25 VERBOSE  task          Movies          ACCEPTED: `Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-18 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `Harold and Lillian: A Hollywood Love Story (2015) [BluRay] [1080p] [YTS.AM]`
+2018-03-18 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt4683668/
+2018-03-18 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Harold and Lillian: A Hollywood Love Story (2015) [BluRay] [1080p] [YTS.AM]`
+2018-03-18 06:26 INFO     imdb          Movies          Didn't accept `Harold and Lillian: A Hollywood Love Story` because of rule(s) min_votes (261 < 500), min_year (2015 < 2016)
+2018-03-18 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-18 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1291566/
+2018-03-18 06:26 VERBOSE  imdb_lookup   Movies          Movie `The Vanishing of Sidney Hall` details expired, refreshing ...
+2018-03-18 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-18 06:26 VERBOSE  task          Movies          ACCEPTED: `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-18 06:26 VERBOSE  task          Movies          ACCEPTED: `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-18 06:26 INFO     imdb          Movies          Didn't accept `The Monkey King 2` because of rule(s) min_score (6.0 < 6.1)
+2018-03-18 06:26 INFO     imdb          Movies          Didn't accept `Ferrari 312B: Where the Revolution Begins` because of rule(s) min_votes (42 < 500)
+2018-03-18 06:26 INFO     imdb          Movies          Didn't accept `24 City` because of rule(s) min_year (2008 < 2016)
+2018-03-18 06:26 INFO     imdb          Movies          Didn't accept `Journey to the West` because of rule(s) min_year (2014 < 2016)
+2018-03-18 06:26 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-18 06:26 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-03-18 06:26 INFO     download      Movies          Downloading: Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-18 06:26 INFO     download      Movies          Downloading: The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-18 06:26 INFO     download      Movies          Downloading: The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-18 06:26 VERBOSE  details       Movies          Summary - Accepted: 3 (Rejected: 3 Undecided: 5 Failed: 0)
+2018-03-18 06:26 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` by seen_info_hash plugin because already accepted torrent with this infohash once for this task
+2018-03-18 06:26 INFO     transmission  Movies          "Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-18 06:26 INFO     transmission  Movies          "The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-18 06:26 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-18 06:26 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-18 14:42 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-18 14:42 VERBOSE  details       TV              Produced 4 entries.
+2018-03-18 14:42 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-18 14:42 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-18 14:42 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-18 14:42 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-18 14:42 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-18 14:43 VERBOSE  details       Movies          Produced 11 entries.
+2018-03-18 14:43 VERBOSE  task          Movies          REJECTED: `Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-18 06:26
+2018-03-18 14:43 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-18 06:26
+2018-03-18 14:43 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-18 06:26
+2018-03-18 14:43 VERBOSE  task          Movies          REJECTED: `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-17 02:00
+2018-03-18 14:43 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-18 14:43 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-18 14:43 INFO     imdb          Movies          Didn't accept `Harold and Lillian: A Hollywood Love Story` because of rule(s) min_votes (261 < 500), min_year (2015 < 2016)
+2018-03-18 14:43 INFO     imdb          Movies          Didn't accept `The Monkey King 2` because of rule(s) min_score (6.0 < 6.1)
+2018-03-18 14:43 INFO     imdb          Movies          Didn't accept `Ferrari 312B: Where the Revolution Begins` because of rule(s) min_votes (42 < 500)
+2018-03-18 14:43 INFO     imdb          Movies          Didn't accept `24 City` because of rule(s) min_year (2008 < 2016)
+2018-03-18 14:43 INFO     imdb          Movies          Didn't accept `Journey to the West` because of rule(s) min_year (2014 < 2016)
+2018-03-18 14:43 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 6 Undecided: 5 Failed: 0)
+2018-03-19 10:30 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-19 10:30 VERBOSE  details       TV              Produced 4 entries.
+2018-03-19 10:30 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-19 10:30 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-19 10:30 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-19 10:30 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-19 10:30 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-19 10:31 VERBOSE  details       Movies          Produced 10 entries.
+2018-03-19 10:31 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-18 06:26
+2018-03-19 10:31 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-18 06:26
+2018-03-19 10:31 VERBOSE  task          Movies          REJECTED: `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Fairy Tail: The Movie - Dragon Cry (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-17 02:00
+2018-03-19 10:31 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-19 10:31 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-19 10:31 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Witness (2015) [BluRay] [1080p] [YTS.AM]`
+2018-03-19 10:31 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt3568002/
+2018-03-19 10:31 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Witness (2015) [BluRay] [1080p] [YTS.AM]`
+2018-03-19 10:31 INFO     imdb          Movies          Didn't accept `The Witness` because of rule(s) min_year (2015 < 2016)
+2018-03-19 10:31 VERBOSE  imdb_lookup   Movies          Searching from imdb `Money from Home (1953) [BluRay] [1080p] [YTS.AM]`
+2018-03-19 10:31 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0046087/
+2018-03-19 10:31 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Money from Home (1953) [BluRay] [1080p] [YTS.AM]`
+2018-03-19 10:31 INFO     imdb          Movies          Didn't accept `Money from Home` because of rule(s) min_year (1953 < 2016)
+2018-03-19 10:31 INFO     imdb          Movies          Didn't accept `Harold and Lillian: A Hollywood Love Story` because of rule(s) min_votes (261 < 500), min_year (2015 < 2016)
+2018-03-19 10:31 INFO     imdb          Movies          Didn't accept `The Monkey King 2` because of rule(s) min_score (6.0 < 6.1)
+2018-03-19 10:31 INFO     imdb          Movies          Didn't accept `Ferrari 312B: Where the Revolution Begins` because of rule(s) min_votes (42 < 500)
+2018-03-19 10:31 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 5 Undecided: 5 Failed: 0)
+2018-03-20 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-20 06:25 VERBOSE  details       TV              Produced 4 entries.
+2018-03-20 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-20 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-20 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-20 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-20 06:25 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-20 06:25 VERBOSE  details       Movies          Produced 11 entries.
+2018-03-20 06:25 VERBOSE  task          Movies          REJECTED: `Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-18 06:26
+2018-03-20 06:25 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-18 06:26
+2018-03-20 06:25 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Vanishing of Sidney Hall (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-18 06:26
+2018-03-20 06:25 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-20 06:25 VERBOSE  task          Movies          REJECTED: `The Vanishing of Sidney Hall (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-20 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Left Hand of God (1955) [BluRay] [1080p] [YTS.AM]`
+2018-03-20 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0048291/
+2018-03-20 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Left Hand of God (1955) [BluRay] [1080p] [YTS.AM]`
+2018-03-20 06:25 INFO     imdb          Movies          Didn't accept `The Left Hand of God` because of rule(s) min_year (1955 < 2016)
+2018-03-20 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `T-Men (1947) [BluRay] [1080p] [YTS.AM]`
+2018-03-20 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0039881/
+2018-03-20 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `T-Men (1947) [BluRay] [1080p] [YTS.AM]`
+2018-03-20 06:26 INFO     imdb          Movies          Didn't accept `T-Men` because of rule(s) min_year (1947 < 2016)
+2018-03-20 06:26 INFO     imdb          Movies          Didn't accept `The Witness` because of rule(s) min_year (2015 < 2016)
+2018-03-20 06:26 INFO     imdb          Movies          Didn't accept `Money from Home` because of rule(s) min_year (1953 < 2016)
+2018-03-20 06:26 INFO     imdb          Movies          Didn't accept `Harold and Lillian: A Hollywood Love Story` because of rule(s) min_votes (261 < 500), min_year (2015 < 2016)
+2018-03-20 06:26 INFO     imdb          Movies          Didn't accept `The Monkey King 2` because of rule(s) min_score (6.0 < 6.1)
+2018-03-20 06:26 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 5 Undecided: 6 Failed: 0)
+2018-03-21 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-21 06:25 VERBOSE  details       TV              Produced 4 entries.
+2018-03-21 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-21 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-21 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-21 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x12 The Real Deal 720p` is already marked seen in the task TV at 2018-03-10 12:03
+2018-03-21 06:25 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-21 06:25 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-21 06:25 VERBOSE  task          Movies          REJECTED: `Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Wonderstruck (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-18 06:26
+2018-03-21 06:25 VERBOSE  task          Movies          REJECTED: `Demon House (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-21 06:25 VERBOSE  task          Movies          REJECTED: `Along for the Ride (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-21 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `Centre of My World (2016) [BluRay] [1080p] [YTS.AM]`
+2018-03-21 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt4932154/
+2018-03-21 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Centre of My World (2016) [BluRay] [1080p] [YTS.AM]`
+2018-03-21 06:25 VERBOSE  task          Movies          ACCEPTED: `Centre of My World (2016) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-21 06:25 INFO     imdb          Movies          Didn't accept `The Left Hand of God` because of rule(s) min_year (1955 < 2016)
+2018-03-21 06:25 INFO     imdb          Movies          Didn't accept `T-Men` because of rule(s) min_year (1947 < 2016)
+2018-03-21 06:25 INFO     imdb          Movies          Didn't accept `The Witness` because of rule(s) min_year (2015 < 2016)
+2018-03-21 06:25 INFO     imdb          Movies          Didn't accept `Money from Home` because of rule(s) min_year (1953 < 2016)
+2018-03-21 06:25 INFO     imdb          Movies          Didn't accept `Harold and Lillian: A Hollywood Love Story` because of rule(s) min_votes (261 < 500), min_year (2015 < 2016)
+2018-03-21 06:25 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-21 06:25 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-03-21 06:25 INFO     download      Movies          Downloading: Centre of My World (2016) [BluRay] [1080p] [YTS.AM]
+2018-03-21 06:25 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 3 Undecided: 5 Failed: 0)
+2018-03-21 06:25 INFO     transmission  Movies          "Centre of My World (2016) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-21 06:25 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-22 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-22 06:25 VERBOSE  details       TV              Produced 5 entries.
+2018-03-22 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-22 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-22 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-22 06:25 VERBOSE  task          TV              ACCEPTED: `The X Files 11x10 My Struggle IV 720p` by series plugin because choosing best available quality
+2018-03-22 06:25 VERBOSE  task          TV              ACCEPTED: `American Crime Story 2x09 Alone 720p` by series plugin because choosing best available quality
+2018-03-22 06:25 VERBOSE  details       TV              Summary - Accepted: 2 (Rejected: 3 Undecided: 0 Failed: 0)
+2018-03-22 06:25 INFO     transmission  TV              "American Crime Story 2x09 Alone 720p" torrent added to transmission
+2018-03-22 06:25 INFO     transmission  TV              "The X Files 11x10 My Struggle IV 720p" torrent added to transmission
+2018-03-22 06:25 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-03-22 06:25 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-03-22 06:25 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-22 06:25 VERBOSE  task          Movies          REJECTED: `Centre of My World (2016) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Centre of My World (2016) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-21 06:25
+2018-03-22 06:25 VERBOSE  task          Movies          REJECTED: `The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-22 06:25 VERBOSE  task          Movies          REJECTED: `Of Mind and Music (2014) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-22 06:25 VERBOSE  task          Movies          REJECTED: `Demon House (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-22 06:25 VERBOSE  task          Movies          REJECTED: `Along for the Ride (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-22 06:25 INFO     imdb          Movies          Didn't accept `The Left Hand of God` because of rule(s) min_year (1955 < 2016)
+2018-03-22 06:25 INFO     imdb          Movies          Didn't accept `T-Men` because of rule(s) min_year (1947 < 2016)
+2018-03-22 06:25 INFO     imdb          Movies          Didn't accept `The Witness` because of rule(s) min_year (2015 < 2016)
+2018-03-22 06:25 INFO     imdb          Movies          Didn't accept `Money from Home` because of rule(s) min_year (1953 < 2016)
+2018-03-22 06:25 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 5 Undecided: 4 Failed: 0)
+2018-03-22 23:23 WARNING  manager                       Your locale declares ascii as the filesystem encoding. Any plugins reading filenames from disk will not work properly for filenames containing non-ascii characters. Make sure your locale env variables are set up correctly for the environment which is launching FlexGet.
+2018-03-22 23:23 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-22 23:23 VERBOSE  details       TV              Produced 5 entries.
+2018-03-22 23:23 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-22 23:23 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-22 23:23 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-22 23:23 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-22 23:23 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-22 23:23 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-03-22 23:23 VERBOSE  details       Movies          Produced 10 entries.
+2018-03-22 23:23 VERBOSE  task          Movies          REJECTED: `Centre of My World (2016) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Centre of My World (2016) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-21 06:25
+2018-03-22 23:23 VERBOSE  task          Movies          REJECTED: `The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-22 23:23 VERBOSE  task          Movies          REJECTED: `Of Mind and Music (2014) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-22 23:23 VERBOSE  task          Movies          REJECTED: `Demon House (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-22 23:23 VERBOSE  task          Movies          REJECTED: `Along for the Ride (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-22 23:23 VERBOSE  imdb_lookup   Movies          Searching from imdb `Union Station (1950) [BluRay] [1080p] [YTS.AM]`
+2018-03-22 23:24 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0043090/
+2018-03-22 23:24 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Union Station (1950) [BluRay] [1080p] [YTS.AM]`
+2018-03-22 23:24 INFO     imdb          Movies          Didn't accept `Union Station` because of rule(s) min_year (1950 < 2016)
+2018-03-22 23:24 VERBOSE  imdb_lookup   Movies          Searching from imdb `The 14 Amazons (1972) [BluRay] [1080p] [YTS.AM]`
+2018-03-22 23:24 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0187499/
+2018-03-22 23:24 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The 14 Amazons (1972) [BluRay] [1080p] [YTS.AM]`
+2018-03-22 23:24 INFO     imdb          Movies          Didn't accept `The 14 Amazons` because of rule(s) min_votes (314 < 500), min_year (1972 < 2016)
+2018-03-22 23:24 VERBOSE  imdb_lookup   Movies          Searching from imdb `Film Stars Don't Die in Liverpool (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-22 23:24 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5711148/
+2018-03-22 23:24 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Film Stars Don't Die in Liverpool (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-22 23:24 VERBOSE  task          Movies          ACCEPTED: `Film Stars Don't Die in Liverpool (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-22 23:24 INFO     imdb          Movies          Didn't accept `The Left Hand of God` because of rule(s) min_year (1955 < 2016)
+2018-03-22 23:24 INFO     imdb          Movies          Didn't accept `T-Men` because of rule(s) min_year (1947 < 2016)
+2018-03-22 23:24 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-22 23:24 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-03-22 23:24 INFO     download      Movies          Downloading: Film Stars Don't Die in Liverpool (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-22 23:24 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 5 Undecided: 4 Failed: 0)
+2018-03-22 23:24 INFO     transmission  Movies          "Film Stars Don't Die in Liverpool (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-22 23:24 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-23 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-23 06:25 VERBOSE  details       TV              Produced 5 entries.
+2018-03-23 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-23 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-23 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-23 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-23 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-23 06:25 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-03-23 06:25 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-23 06:25 VERBOSE  task          Movies          REJECTED: `Film Stars Don't Die in Liverpool (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Film Stars Don't Die in Liverpool (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-22 23:24
+2018-03-23 06:25 VERBOSE  task          Movies          REJECTED: `Centre of My World (2016) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Centre of My World (2016) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-21 06:25
+2018-03-23 06:25 VERBOSE  task          Movies          REJECTED: `The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-23 06:25 VERBOSE  task          Movies          REJECTED: `Of Mind and Music (2014) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-23 06:25 VERBOSE  task          Movies          REJECTED: `Demon House (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-23 06:25 VERBOSE  task          Movies          REJECTED: `Along for the Ride (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-23 06:25 INFO     imdb          Movies          Didn't accept `Union Station` because of rule(s) min_year (1950 < 2016)
+2018-03-23 06:25 INFO     imdb          Movies          Didn't accept `The 14 Amazons` because of rule(s) min_votes (314 < 500), min_year (1972 < 2016)
+2018-03-23 06:25 INFO     imdb          Movies          Didn't accept `The Left Hand of God` because of rule(s) min_year (1955 < 2016)
+2018-03-23 06:25 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 6 Undecided: 3 Failed: 0)
+2018-03-24 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-24 06:25 VERBOSE  details       TV              Produced 6 entries.
+2018-03-24 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-24 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-24 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-24 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-24 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-24 06:25 VERBOSE  task          TV              ACCEPTED: `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` by series plugin because choosing best available quality
+2018-03-24 06:25 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-03-24 06:25 INFO     transmission  TV              "Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p" torrent added to transmission
+2018-03-24 06:25 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-03-24 06:25 VERBOSE  details       Movies          Produced 8 entries.
+2018-03-24 06:25 VERBOSE  task          Movies          REJECTED: `Film Stars Don't Die in Liverpool (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Film Stars Don't Die in Liverpool (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-22 23:24
+2018-03-24 06:25 VERBOSE  task          Movies          REJECTED: `Roxanne Roxanne (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-24 06:25 VERBOSE  task          Movies          REJECTED: `Redemption Trail (2013) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-24 06:25 VERBOSE  task          Movies          REJECTED: `Black Marigolds (2013) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-24 06:25 VERBOSE  task          Movies          REJECTED: `Of Mind and Music (2014) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-24 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `Still the Water (2014) [BluRay] [1080p] [YTS.AM]`
+2018-03-24 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt3230162/
+2018-03-24 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Still the Water (2014) [BluRay] [1080p] [YTS.AM]`
+2018-03-24 06:25 INFO     imdb          Movies          Didn't accept `Still the Water` because of rule(s) min_year (2014 < 2016)
+2018-03-24 06:25 INFO     imdb          Movies          Didn't accept `Union Station` because of rule(s) min_year (1950 < 2016)
+2018-03-24 06:25 INFO     imdb          Movies          Didn't accept `The 14 Amazons` because of rule(s) min_votes (314 < 500), min_year (1972 < 2016)
+2018-03-24 06:25 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 5 Undecided: 3 Failed: 0)
+2018-03-25 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-25 06:25 VERBOSE  details       TV              Produced 6 entries.
+2018-03-25 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` is already marked seen in the task TV at 2018-03-24 06:25
+2018-03-25 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-25 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-25 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-25 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-25 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-25 06:25 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 6 Undecided: 0 Failed: 0)
+2018-03-25 06:25 VERBOSE  details       Movies          Produced 11 entries.
+2018-03-25 06:25 VERBOSE  task          Movies          REJECTED: `The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-25 06:25 VERBOSE  task          Movies          REJECTED: `The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-25 06:25 VERBOSE  task          Movies          REJECTED: `Game Over, Man! (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-25 06:25 VERBOSE  task          Movies          REJECTED: `I Kill Giants (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-25 06:25 VERBOSE  task          Movies          REJECTED: `Roxanne Roxanne (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-25 06:25 VERBOSE  task          Movies          REJECTED: `Redemption Trail (2013) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-25 06:25 VERBOSE  task          Movies          REJECTED: `Black Marigolds (2013) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-25 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `All the Money in the World (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-25 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5294550/
+2018-03-25 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `All the Money in the World (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-25 06:25 VERBOSE  task          Movies          ACCEPTED: `All the Money in the World (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-25 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Greatest Showman (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-25 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1485796/
+2018-03-25 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Greatest Showman (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-25 06:26 INFO     imdb          Movies          Didn't accept `The Greatest Showman` because of rule(s) reject_genres
+2018-03-25 06:26 INFO     imdb          Movies          Didn't accept `The Greatest Showman` because of rule(s) reject_genres
+2018-03-25 06:26 INFO     imdb          Movies          Didn't accept `Still the Water` because of rule(s) min_year (2014 < 2016)
+2018-03-25 06:26 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-25 06:26 INFO     download      Movies          Downloading: All the Money in the World (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-25 06:26 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 7 Undecided: 3 Failed: 0)
+2018-03-25 06:26 INFO     transmission  Movies          "All the Money in the World (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-25 06:26 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-26 06:25 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-26 06:25 VERBOSE  details       TV              Produced 6 entries.
+2018-03-26 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` is already marked seen in the task TV at 2018-03-24 06:25
+2018-03-26 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-26 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-26 06:25 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x13 Principia 720p` is already marked seen in the task TV at 2018-03-17 06:25
+2018-03-26 06:25 VERBOSE  task          TV              REJECTED: `American Crime Story 2x08 Creator / Destroyer 720p` by seen plugin because entry with title `American Crime Story 2x08 Creator / Destroyer 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-26 06:25 VERBOSE  task          TV              REJECTED: `The X Files 11x09 Nothing Lasts Forever 720p` by seen plugin because entry with title `The X Files 11x09 Nothing Lasts Forever 720p` is already marked seen in the task TV at 2018-03-15 06:25
+2018-03-26 06:25 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 6 Undecided: 0 Failed: 0)
+2018-03-26 06:25 VERBOSE  details       Movies          Produced 10 entries.
+2018-03-26 06:25 VERBOSE  task          Movies          REJECTED: `The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-26 06:25 VERBOSE  task          Movies          REJECTED: `The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-26 06:25 VERBOSE  task          Movies          REJECTED: `Game Over, Man! (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-26 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `Control (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1727497/
+2018-03-26 06:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Control (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:25 INFO     imdb          Movies          Didn't accept `Control` because of rule(s) min_votes (285 < 500)
+2018-03-26 06:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `Chasing the Dragon (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt6015328/
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Chasing the Dragon (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:26 VERBOSE  task          Movies          ACCEPTED: `Chasing the Dragon (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `Dear Etranger (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5797164/
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Dear Etranger (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:26 INFO     imdb          Movies          Didn't accept `Dear Etranger` because of rule(s) min_votes (67 < 500)
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `Every Secret Thing (2014) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1706598/
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Every Secret Thing (2014) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:26 INFO     imdb          Movies          Didn't accept `Every Secret Thing` because of rule(s) min_year (2014 < 2016)
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `Believe in Me (2006) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0419491/
+2018-03-26 06:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Believe in Me (2006) [BluRay] [1080p] [YTS.AM]`
+2018-03-26 06:27 INFO     imdb          Movies          Didn't accept `Believe in Me` because of rule(s) min_year (2006 < 2016)
+2018-03-26 06:27 INFO     imdb          Movies          Didn't accept `The Greatest Showman` because of rule(s) reject_genres
+2018-03-26 06:27 INFO     imdb          Movies          Didn't accept `The Greatest Showman` because of rule(s) reject_genres
+2018-03-26 06:27 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-26 06:27 INFO     download      Movies          Downloading: Chasing the Dragon (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-26 06:27 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 3 Undecided: 6 Failed: 0)
+2018-03-26 06:27 INFO     transmission  Movies          "Chasing the Dragon (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-26 06:27 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-27 06:25 CRITICAL manager                       [/tasks/Movies/exists_movie/path] `/mnt/timecapsule/Videos/Movies` does not exist
+2018-03-27 06:25 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2018-03-30 18:02 INFO     manager                       Database upgrade is required. Attempting now.
+2018-03-30 18:02 INFO     schema                        Plugin api_tmdb database is not upgradable. Flushing data and regenerating.
+2018-03-30 18:02 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-30 18:02 VERBOSE  details       TV              Produced 6 entries.
+2018-03-30 18:02 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` is already marked seen in the task TV at 2018-03-24 06:25
+2018-03-30 18:02 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 18:02 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 18:02 VERBOSE  task          TV              ACCEPTED: `Guardians of the Galaxy 3x01 720p` by series plugin because choosing best available quality
+2018-03-30 18:02 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by series plugin because too much in the future from latest downloaded entity `S02E25`. See `--disable-tracking` if this should be downloaded.
+2018-03-30 18:02 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x02 720p` by series plugin because too much in the future from latest downloaded entity `S02E25`. See `--disable-tracking` if this should be downloaded.
+2018-03-30 18:02 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-03-30 18:02 CRITICAL plugin        TV              Cannot connect to transmission. Is it running?
+2018-03-30 18:02 WARNING  task          TV              Aborting task (plugin: transmission)
+2018-03-30 18:03 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-30 18:03 VERBOSE  task          Movies          REJECTED: `Moving Parts (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:03 VERBOSE  task          Movies          REJECTED: `The Last Movie Star (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:03 VERBOSE  task          Movies          REJECTED: `Lucky (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:03 VERBOSE  task          Movies          REJECTED: `Phantom Thread (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:03 VERBOSE  imdb_lookup   Movies          Searching from imdb `Happy End (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:03 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5304464/
+2018-03-30 18:03 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Happy End (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:04 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-30 18:04 VERBOSE  details       TV              Produced 6 entries.
+2018-03-30 18:04 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` is already marked seen in the task TV at 2018-03-24 06:25
+2018-03-30 18:04 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 18:04 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 18:04 VERBOSE  task          TV              ACCEPTED: `Guardians of the Galaxy 3x01 720p` by series plugin because choosing best available quality
+2018-03-30 18:04 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by series plugin because too much in the future from latest downloaded entity `S02E25`. See `--disable-tracking` if this should be downloaded.
+2018-03-30 18:04 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x02 720p` by series plugin because too much in the future from latest downloaded entity `S02E25`. See `--disable-tracking` if this should be downloaded.
+2018-03-30 18:04 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-03-30 18:04 CRITICAL plugin        TV              Cannot connect to transmission. Is it running?
+2018-03-30 18:04 WARNING  task          TV              Aborting task (plugin: transmission)
+2018-03-30 18:04 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-30 18:04 VERBOSE  task          Movies          REJECTED: `Moving Parts (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:04 VERBOSE  task          Movies          REJECTED: `The Last Movie Star (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:04 VERBOSE  task          Movies          REJECTED: `Lucky (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:04 VERBOSE  task          Movies          REJECTED: `Phantom Thread (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Happy End (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:04 VERBOSE  task          Movies          ACCEPTED: `Happy End (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Searching from imdb `After the Storm (2016) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5294966/
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Parsing imdb for `After the Storm (2016) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:04 VERBOSE  task          Movies          ACCEPTED: `After the Storm (2016) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Searching from imdb `Farewell, My Lovely (1975) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0072973/
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Farewell, My Lovely (1975) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:04 INFO     imdb          Movies          Didn't accept `Farewell, My Lovely` because of rule(s) min_year (1975 < 2016)
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Searching from imdb `Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt6336356/
+2018-03-30 18:04 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:05 VERBOSE  task          Movies          ACCEPTED: `Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:05 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Third Murder (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:05 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt6410564/
+2018-03-30 18:05 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Third Murder (2017) [BluRay] [1080p] [YTS.AM]`
+2018-03-30 18:05 VERBOSE  task          Movies          ACCEPTED: `The Third Murder (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:05 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-30 18:05 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-03-30 18:05 INFO     download      Movies          Downloading: Happy End (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:05 INFO     download      Movies          Downloading: After the Storm (2016) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:05 INFO     download      Movies          Downloading: Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:05 INFO     download      Movies          Downloading: The Third Murder (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:05 VERBOSE  details       Movies          Summary - Accepted: 4 (Rejected: 4 Undecided: 1 Failed: 0)
+2018-03-30 18:05 CRITICAL plugin        Movies          Cannot connect to transmission. Is it running?
+2018-03-30 18:05 WARNING  task          Movies          Aborting task (plugin: transmission)
+2018-03-30 18:06 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-30 18:06 VERBOSE  details       TV              Produced 6 entries.
+2018-03-30 18:06 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` is already marked seen in the task TV at 2018-03-24 06:25
+2018-03-30 18:06 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 18:06 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 18:06 VERBOSE  task          TV              ACCEPTED: `Guardians of the Galaxy 3x01 720p` by series plugin because choosing best available quality
+2018-03-30 18:06 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by series plugin because too much in the future from latest downloaded entity `S02E25`. See `--disable-tracking` if this should be downloaded.
+2018-03-30 18:06 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x02 720p` by series plugin because too much in the future from latest downloaded entity `S02E25`. See `--disable-tracking` if this should be downloaded.
+2018-03-30 18:06 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-03-30 18:06 CRITICAL plugin        TV              Username/password for transmission is incorrect. Cannot connect.
+2018-03-30 18:06 WARNING  task          TV              Aborting task (plugin: transmission)
+2018-03-30 18:06 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-30 18:06 VERBOSE  task          Movies          REJECTED: `Moving Parts (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:06 VERBOSE  task          Movies          REJECTED: `The Last Movie Star (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:06 VERBOSE  task          Movies          REJECTED: `Lucky (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:06 VERBOSE  task          Movies          REJECTED: `Phantom Thread (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:06 VERBOSE  task          Movies          ACCEPTED: `Happy End (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:06 VERBOSE  task          Movies          ACCEPTED: `After the Storm (2016) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:06 INFO     imdb          Movies          Didn't accept `Farewell, My Lovely` because of rule(s) min_year (1975 < 2016)
+2018-03-30 18:06 VERBOSE  task          Movies          ACCEPTED: `Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:06 VERBOSE  task          Movies          ACCEPTED: `The Third Murder (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:06 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-30 18:06 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-03-30 18:06 INFO     download      Movies          Downloading: Happy End (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:06 INFO     download      Movies          Downloading: After the Storm (2016) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:06 ERROR    task_queue                    Got ctrl-c, shutting down after running task (if any) completes
+2018-03-30 18:06 INFO     download      Movies          Downloading: Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:07 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-30 18:07 VERBOSE  details       TV              Produced 6 entries.
+2018-03-30 18:07 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` is already marked seen in the task TV at 2018-03-24 06:25
+2018-03-30 18:07 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 18:07 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 18:07 VERBOSE  task          TV              ACCEPTED: `Guardians of the Galaxy 3x01 720p` by series plugin because choosing best available quality
+2018-03-30 18:07 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by series plugin because too much in the future from latest downloaded entity `S02E25`. See `--disable-tracking` if this should be downloaded.
+2018-03-30 18:07 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x02 720p` by series plugin because too much in the future from latest downloaded entity `S02E25`. See `--disable-tracking` if this should be downloaded.
+2018-03-30 18:07 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-03-30 18:07 INFO     transmission  TV              "Guardians of the Galaxy 3x01 720p" torrent added to transmission
+2018-03-30 18:07 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-03-30 18:07 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-30 18:07 VERBOSE  task          Movies          REJECTED: `Moving Parts (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:07 VERBOSE  task          Movies          REJECTED: `The Last Movie Star (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:07 VERBOSE  task          Movies          REJECTED: `Lucky (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:07 VERBOSE  task          Movies          REJECTED: `Phantom Thread (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 18:07 VERBOSE  task          Movies          ACCEPTED: `Happy End (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:07 VERBOSE  task          Movies          ACCEPTED: `After the Storm (2016) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:07 INFO     imdb          Movies          Didn't accept `Farewell, My Lovely` because of rule(s) min_year (1975 < 2016)
+2018-03-30 18:07 VERBOSE  task          Movies          ACCEPTED: `Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:07 VERBOSE  task          Movies          ACCEPTED: `The Third Murder (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-03-30 18:07 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-03-30 18:07 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-03-30 18:07 INFO     download      Movies          Downloading: Happy End (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:07 INFO     download      Movies          Downloading: After the Storm (2016) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:07 INFO     download      Movies          Downloading: Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:07 INFO     download      Movies          Downloading: The Third Murder (2017) [BluRay] [1080p] [YTS.AM]
+2018-03-30 18:07 VERBOSE  details       Movies          Summary - Accepted: 4 (Rejected: 4 Undecided: 1 Failed: 0)
+2018-03-30 18:07 INFO     transmission  Movies          "Happy End (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-30 18:07 INFO     transmission  Movies          "After the Storm (2016) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-30 18:07 INFO     transmission  Movies          "Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-30 18:07 INFO     transmission  Movies          "The Third Murder (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-03-30 18:07 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-30 18:07 VERBOSE  utils.requests Movies          Waiting 4.11 seconds until next request to pushover.net
+2018-03-30 18:07 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-30 18:07 VERBOSE  utils.requests Movies          Waiting 4.09 seconds until next request to pushover.net
+2018-03-30 18:07 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-30 18:08 VERBOSE  utils.requests Movies          Waiting 4.10 seconds until next request to pushover.net
+2018-03-30 18:08 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-03-30 19:00 CRITICAL manager                       [/tasks/Movies/exists_movie/path] `/mnt/timecapsule/Videos/Movies` does not exist
+2018-03-30 19:00 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2018-03-30 19:02 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-03-30 19:02 VERBOSE  details       TV              Produced 6 entries.
+2018-03-30 19:02 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x01 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x01 720p` is already marked seen in the task TV at 2018-03-30 18:07
+2018-03-30 19:02 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x14 The Devil Complex 720p` is already marked seen in the task TV at 2018-03-24 06:25
+2018-03-30 19:02 VERBOSE  task          TV              REJECTED: `American Crime Story 2x09 Alone 720p` by seen plugin because entry with title `American Crime Story 2x09 Alone 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 19:02 VERBOSE  task          TV              REJECTED: `The X Files 11x10 My Struggle IV 720p` by seen plugin because entry with title `The X Files 11x10 My Struggle IV 720p` is already marked seen in the task TV at 2018-03-22 06:25
+2018-03-30 19:02 VERBOSE  task          TV              ACCEPTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by series plugin because choosing best available quality
+2018-03-30 19:02 VERBOSE  task          TV              ACCEPTED: `Guardians of the Galaxy 3x02 720p` by series plugin because choosing best available quality
+2018-03-30 19:02 VERBOSE  details       TV              Summary - Accepted: 2 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-03-30 19:02 INFO     transmission  TV              "Guardians of the Galaxy 3x03 Drive My Carnage 720p" torrent added to transmission
+2018-03-30 19:02 INFO     transmission  TV              "Guardians of the Galaxy 3x02 720p" torrent added to transmission
+2018-03-30 19:02 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-03-30 19:02 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-03-30 19:02 VERBOSE  details       Movies          Produced 9 entries.
+2018-03-30 19:02 VERBOSE  task          Movies          REJECTED: `Happy End (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Happy End (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-30 18:08
+2018-03-30 19:02 VERBOSE  task          Movies          REJECTED: `After the Storm (2016) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `After the Storm (2016) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-30 18:08
+2018-03-30 19:02 VERBOSE  task          Movies          REJECTED: `Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Mary and the Witch's Flower (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-30 18:08
+2018-03-30 19:02 VERBOSE  task          Movies          REJECTED: `The Third Murder (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Third Murder (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-30 18:08
+2018-03-30 19:02 VERBOSE  task          Movies          REJECTED: `Moving Parts (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 19:02 VERBOSE  task          Movies          REJECTED: `The Last Movie Star (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 19:02 VERBOSE  task          Movies          REJECTED: `Lucky (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 19:02 VERBOSE  task          Movies          REJECTED: `Phantom Thread (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-03-30 19:02 INFO     imdb          Movies          Didn't accept `Farewell, My Lovely` because of rule(s) min_year (1975 < 2016)
+2018-03-30 19:02 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 8 Undecided: 1 Failed: 0)
+2018-04-03 22:17 CRITICAL manager                       [/tasks/Movies/exists_movie/path] `/mnt/timecapsule/Videos/Movies` does not exist
+2018-04-03 22:17 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2018-04-03 22:21 CRITICAL manager                       [/tasks/Movies/exists_movie/path] `/mnt/timecapsule/Videos/Movies` does not exist
+2018-04-03 22:21 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2018-04-03 22:22 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2018-04-03 22:22 VERBOSE  details       TV              Produced 4 entries.
+2018-04-03 22:22 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x03 Drive My Carnage 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-03 22:22 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x02 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x02 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-03 22:22 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x01 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x01 720p` is already marked seen in the task TV at 2018-03-30 18:07
+2018-04-03 22:22 VERBOSE  task          TV              ACCEPTED: `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` by series plugin because choosing best available quality
+2018-04-03 22:22 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 3 Undecided: 0 Failed: 0)
+2018-04-03 22:22 INFO     transmission  TV              "Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p" torrent added to transmission
+2018-04-03 22:22 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-04-03 22:22 VERBOSE  details       Movies          Produced 13 entries.
+2018-04-03 22:22 VERBOSE  task          Movies          REJECTED: `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-11 06:27
+2018-04-03 22:22 VERBOSE  task          Movies          REJECTED: `Jumanji: Welcome to the Jungle (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Jumanji: Welcome to the Jungle (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 06:26
+2018-04-03 22:22 VERBOSE  task          Movies          REJECTED: `Jumanji: Welcome to the Jungle (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `Jumanji: Welcome to the Jungle (2017) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 00:05
+2018-04-03 22:22 VERBOSE  task          Movies          REJECTED: `Jumanji: Welcome to the Jungle (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Jumanji: Welcome to the Jungle (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 06:26
+2018-04-03 22:22 VERBOSE  task          Movies          REJECTED: `Jumanji: Welcome to the Jungle (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `Jumanji: Welcome to the Jungle (2017) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 00:05
+2018-04-03 22:22 VERBOSE  task          Movies          REJECTED: `Along with the Gods: The Two Worlds (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `Along with the Gods: The Two Worlds (2017) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 00:05
+2018-04-03 22:22 VERBOSE  task          Movies          REJECTED: `The Commuter (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-03 22:22 VERBOSE  task          Movies          REJECTED: `The China Hustle (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-03 22:22 VERBOSE  task          Movies          REJECTED: `The Redeemed and the Dominant: Fittest on Earth (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-03 22:22 VERBOSE  imdb_lookup   Movies          Searching from imdb `Re: Born (2016) [BluRay] [1080p] [YTS.AM]`
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5678110/
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Re: Born (2016) [BluRay] [1080p] [YTS.AM]`
+2018-04-03 22:23 INFO     imdb          Movies          Didn't accept `Re: Born` because of rule(s) min_score (6.0 < 6.1), min_votes (181 < 500)
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Housemaid (2016) [BluRay] [1080p] [YTS.AM]`
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5860084/
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Housemaid (2016) [BluRay] [1080p] [YTS.AM]`
+2018-04-03 22:23 INFO     imdb          Movies          Didn't accept `The Housemaid` because of rule(s) min_votes (198 < 500)
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Searching from imdb `Fear in the Night (1972) [BluRay] [1080p] [YTS.AM]`
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0068577/
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Fear in the Night (1972) [BluRay] [1080p] [YTS.AM]`
+2018-04-03 22:23 INFO     imdb          Movies          Didn't accept `Fear in the Night` because of rule(s) min_score (6.0 < 6.1), min_year (1972 < 2016)
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Searching from imdb `Along with the Gods: The Two Worlds (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt7160070/
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Movie `Along with the Gods: The Two Worlds` details expired, refreshing ...
+2018-04-03 22:23 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Along with the Gods: The Two Worlds (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-03 22:24 VERBOSE  task          Movies          ACCEPTED: `Along with the Gods: The Two Worlds (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-03 22:24 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-04-03 22:24 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-04-03 22:24 INFO     download      Movies          Downloading: Along with the Gods: The Two Worlds (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-03 22:24 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 9 Undecided: 3 Failed: 0)
+2018-04-03 22:24 INFO     transmission  Movies          "Along with the Gods: The Two Worlds (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-03 22:24 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-04 22:17 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-04-04 22:17 VERBOSE  details       TV              Produced 5 entries.
+2018-04-04 22:17 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` is already marked seen in the task TV at 2018-04-03 22:22
+2018-04-04 22:17 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x03 Drive My Carnage 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-04 22:17 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x02 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x02 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-04 22:17 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x01 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x01 720p` is already marked seen in the task TV at 2018-03-30 18:07
+2018-04-04 22:17 VERBOSE  series        TV              identified by is currently on `auto` for Legion. Multiple id types may be accepted until it locks in on the appropriate type.
+2018-04-04 22:17 VERBOSE  task          TV              ACCEPTED: `Legion 2x01 Chapter 9 720p` by series plugin because choosing best available quality
+2018-04-04 22:17 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 4 Undecided: 0 Failed: 0)
+2018-04-04 22:17 INFO     transmission  TV              "Legion 2x01 Chapter 9 720p" torrent added to transmission
+2018-04-04 22:17 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-04-04 22:17 VERBOSE  details       Movies          Produced 13 entries.
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Star Wars: The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-11 06:27
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `Jumanji: Welcome to the Jungle (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Jumanji: Welcome to the Jungle (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 06:26
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `Jumanji: Welcome to the Jungle (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `Jumanji: Welcome to the Jungle (2017) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 00:05
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `Jumanji: Welcome to the Jungle (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Jumanji: Welcome to the Jungle (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 06:26
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `Jumanji: Welcome to the Jungle (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `Jumanji: Welcome to the Jungle (2017) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 00:05
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `Along with the Gods: The Two Worlds (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Along with the Gods: The Two Worlds (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-04-03 22:24
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `Along with the Gods: The Two Worlds (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with title `Along with the Gods: The Two Worlds (2017) [WEBRip] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-03-07 00:05
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `The Commuter (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `The China Hustle (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-04 22:17 VERBOSE  task          Movies          REJECTED: `The Redeemed and the Dominant: Fittest on Earth (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-04 22:17 INFO     imdb          Movies          Didn't accept `Re: Born` because of rule(s) min_score (6.0 < 6.1), min_votes (181 < 500)
+2018-04-04 22:17 INFO     imdb          Movies          Didn't accept `The Housemaid` because of rule(s) min_votes (198 < 500)
+2018-04-04 22:17 INFO     imdb          Movies          Didn't accept `Fear in the Night` because of rule(s) min_score (6.0 < 6.1), min_year (1972 < 2016)
+2018-04-04 22:17 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 10 Undecided: 3 Failed: 0)
+2018-04-05 21:52 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-04-05 21:52 VERBOSE  details       TV              Produced 5 entries.
+2018-04-05 21:52 VERBOSE  task          TV              REJECTED: `Legion 2x01 Chapter 9 720p` by seen plugin because entry with title `Legion 2x01 Chapter 9 720p` is already marked seen in the task TV at 2018-04-04 22:17
+2018-04-05 21:52 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` is already marked seen in the task TV at 2018-04-03 22:22
+2018-04-05 21:52 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x03 Drive My Carnage 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-05 21:52 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x02 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x02 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-05 21:52 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x01 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x01 720p` is already marked seen in the task TV at 2018-03-30 18:07
+2018-04-05 21:52 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-04-05 21:52 VERBOSE  details       Movies          Produced 9 entries.
+2018-04-05 21:52 VERBOSE  task          Movies          REJECTED: `The Commuter (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-05 21:52 VERBOSE  task          Movies          REJECTED: `The Commuter (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-05 21:52 VERBOSE  task          Movies          REJECTED: `Pyewacket (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-05 21:52 VERBOSE  task          Movies          REJECTED: `The China Hustle (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-05 21:52 VERBOSE  task          Movies          REJECTED: `The Redeemed and the Dominant: Fittest on Earth (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-05 21:52 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Commuter (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-05 21:52 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1590193/
+2018-04-05 21:52 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Commuter (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-05 21:52 VERBOSE  task          Movies          ACCEPTED: `The Commuter (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-05 21:52 VERBOSE  task          Movies          ACCEPTED: `The Commuter (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-05 21:53 INFO     imdb          Movies          Didn't accept `Re: Born` because of rule(s) min_score (6.0 < 6.1), min_votes (181 < 500)
+2018-04-05 21:53 INFO     imdb          Movies          Didn't accept `The Housemaid` because of rule(s) min_votes (198 < 500)
+2018-04-05 21:53 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-04-05 21:53 INFO     download      Movies          Downloading: The Commuter (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-05 21:53 INFO     download      Movies          Downloading: The Commuter (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-05 21:53 VERBOSE  details       Movies          Summary - Accepted: 2 (Rejected: 5 Undecided: 2 Failed: 0)
+2018-04-05 21:53 VERBOSE  task          Movies          REJECTED: `The Commuter (2018) [BluRay] [1080p] [YTS.AM]` by seen_info_hash plugin because already accepted torrent with this infohash once for this task
+2018-04-05 21:53 INFO     transmission  Movies          "The Commuter (2018) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-05 21:53 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-07 18:48 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-04-07 18:48 VERBOSE  details       TV              Produced 6 entries.
+2018-04-07 18:48 VERBOSE  task          TV              REJECTED: `Legion 2x01 Chapter 9 720p` by seen plugin because entry with title `Legion 2x01 Chapter 9 720p` is already marked seen in the task TV at 2018-04-04 22:17
+2018-04-07 18:48 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` is already marked seen in the task TV at 2018-04-03 22:22
+2018-04-07 18:48 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x03 Drive My Carnage 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-07 18:48 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x02 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x02 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-07 18:48 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x01 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x01 720p` is already marked seen in the task TV at 2018-03-30 18:07
+2018-04-07 18:48 VERBOSE  task          TV              ACCEPTED: `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` by series plugin because choosing best available quality
+2018-04-07 18:48 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 5 Undecided: 0 Failed: 0)
+2018-04-07 18:48 INFO     transmission  TV              "Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p" torrent added to transmission
+2018-04-07 18:48 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-04-07 18:49 VERBOSE  details       Movies          Produced 10 entries.
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `Seeking Dolly Parton (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `Dare to Be Wild (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `Petals on the Wind (2014) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `Being Julia (2004) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `Trouble Is My Business (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `Remember Me (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `The Other Side of Heaven (2001) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `Sons of Ben (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `Froning: The Fittest Man in History (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  task          Movies          REJECTED: `Flowers in the Attic (2014) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:49 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 10 Undecided: 0 Failed: 0)
+2018-04-07 18:51 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-04-07 18:51 VERBOSE  details       TV              Produced 6 entries.
+2018-04-07 18:51 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` is already marked seen in the task TV at 2018-04-07 18:48
+2018-04-07 18:51 VERBOSE  task          TV              REJECTED: `Legion 2x01 Chapter 9 720p` by seen plugin because entry with title `Legion 2x01 Chapter 9 720p` is already marked seen in the task TV at 2018-04-04 22:17
+2018-04-07 18:51 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` is already marked seen in the task TV at 2018-04-03 22:22
+2018-04-07 18:51 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x03 Drive My Carnage 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x03 Drive My Carnage 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-07 18:51 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x02 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x02 720p` is already marked seen in the task TV at 2018-03-30 19:02
+2018-04-07 18:51 VERBOSE  task          TV              REJECTED: `Guardians of the Galaxy 3x01 720p` by seen plugin because entry with title `Guardians of the Galaxy 3x01 720p` is already marked seen in the task TV at 2018-03-30 18:07
+2018-04-07 18:51 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 6 Undecided: 0 Failed: 0)
+2018-04-07 18:51 VERBOSE  details       Movies          Produced 10 entries.
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `Seeking Dolly Parton (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `Dare to Be Wild (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `Petals on the Wind (2014) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `Being Julia (2004) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `Trouble Is My Business (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `Remember Me (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `The Other Side of Heaven (2001) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `Sons of Ben (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `Froning: The Fittest Man in History (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  task          Movies          REJECTED: `Flowers in the Attic (2014) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-07 18:51 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 10 Undecided: 0 Failed: 0)
+2018-04-08 12:02 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-04-08 12:02 VERBOSE  details       TV              Produced 3 entries.
+2018-04-08 12:02 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` is already marked seen in the task TV at 2018-04-07 18:48
+2018-04-08 12:02 VERBOSE  task          TV              REJECTED: `Legion 2x01 Chapter 9 720p` by seen plugin because entry with title `Legion 2x01 Chapter 9 720p` is already marked seen in the task TV at 2018-04-04 22:17
+2018-04-08 12:02 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x15 Rise and Shine 720p` is already marked seen in the task TV at 2018-04-03 22:22
+2018-04-08 12:02 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 3 Undecided: 0 Failed: 0)
+2018-04-08 12:02 VERBOSE  details       Movies          Produced 8 entries.
+2018-04-08 12:02 VERBOSE  task          Movies          REJECTED: `You Were Never Really Here (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-08 12:02 VERBOSE  task          Movies          REJECTED: `Jesus Christ Superstar Live in Concert (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-08 12:02 VERBOSE  task          Movies          REJECTED: `The Hunchback of Notre Dame (1996) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-08 12:02 VERBOSE  task          Movies          REJECTED: `Seeking Dolly Parton (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-08 12:02 VERBOSE  task          Movies          REJECTED: `Dare to Be Wild (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-08 12:02 VERBOSE  task          Movies          REJECTED: `Petals on the Wind (2014) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-08 12:02 VERBOSE  imdb_lookup   Movies          Searching from imdb `5 Centimeters Per Second (2007) [BluRay] [1080p] [YTS.AM]`
+2018-04-08 12:02 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0983213/
+2018-04-08 12:02 VERBOSE  imdb_lookup   Movies          Parsing imdb for `5 Centimeters Per Second (2007) [BluRay] [1080p] [YTS.AM]`
+2018-04-08 12:03 INFO     imdb          Movies          Didn't accept `5 Centimeters Per Second` because of rule(s) min_year (2007 < 2016)
+2018-04-08 12:03 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Post (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-08 12:03 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt6294822/
+2018-04-08 12:03 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Post (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-08 12:03 VERBOSE  task          Movies          ACCEPTED: `The Post (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-08 12:03 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-04-08 12:03 INFO     download      Movies          Downloading: The Post (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-08 12:03 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 6 Undecided: 1 Failed: 0)
+2018-04-08 12:03 INFO     transmission  Movies          "The Post (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-08 12:03 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-10 07:33 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-04-10 07:33 VERBOSE  details       TV              Produced 2 entries.
+2018-04-10 07:33 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` is already marked seen in the task TV at 2018-04-07 18:48
+2018-04-10 07:33 VERBOSE  task          TV              REJECTED: `Legion 2x01 Chapter 9 720p` by seen plugin because entry with title `Legion 2x01 Chapter 9 720p` is already marked seen in the task TV at 2018-04-04 22:17
+2018-04-10 07:33 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 2 Undecided: 0 Failed: 0)
+2018-04-10 07:33 VERBOSE  details       Movies          Produced 8 entries.
+2018-04-10 07:33 VERBOSE  task          Movies          REJECTED: `Paterno (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-10 07:33 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Proud Ones (1956) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:33 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0049639/
+2018-04-10 07:33 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Proud Ones (1956) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:33 INFO     imdb          Movies          Didn't accept `The Proud Ones` because of rule(s) min_year (1956 < 2016)
+2018-04-10 07:33 VERBOSE  imdb_lookup   Movies          Searching from imdb `Freaky Friday (2003) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:33 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0322330/
+2018-04-10 07:33 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Freaky Friday (2003) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:33 INFO     imdb          Movies          Didn't accept `Freaky Friday` because of rule(s) min_year (2003 < 2016), reject_genres
+2018-04-10 07:33 VERBOSE  imdb_lookup   Movies          Searching from imdb `Shirley: Visions of Reality (2013) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:33 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt2636806/
+2018-04-10 07:33 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Shirley: Visions of Reality (2013) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:34 INFO     imdb          Movies          Didn't accept `Shirley: Visions of Reality` because of rule(s) min_year (2013 < 2016)
+2018-04-10 07:34 VERBOSE  imdb_lookup   Movies          Searching from imdb `Perfect Strangers (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:34 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt6101820/
+2018-04-10 07:34 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Perfect Strangers (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:34 VERBOSE  task          Movies          ACCEPTED: `Perfect Strangers (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-10 07:34 VERBOSE  imdb_lookup   Movies          Searching from imdb `Robbery (1967) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:34 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0062207/
+2018-04-10 07:34 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Robbery (1967) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:34 INFO     imdb          Movies          Didn't accept `Robbery` because of rule(s) min_year (1967 < 2016)
+2018-04-10 07:34 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Professional (1981) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:35 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0082949/
+2018-04-10 07:35 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Professional (1981) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:35 INFO     imdb          Movies          Didn't accept `The Professional` because of rule(s) min_year (1981 < 2016)
+2018-04-10 07:35 VERBOSE  imdb_lookup   Movies          Searching from imdb `Humor Me (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:35 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5658242/
+2018-04-10 07:35 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Humor Me (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 07:35 INFO     imdb          Movies          Didn't accept `Humor Me` because of rule(s) min_votes (92 < 500)
+2018-04-10 07:35 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-04-10 07:35 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-04-10 07:35 INFO     download      Movies          Downloading: Perfect Strangers (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-10 07:35 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 1 Undecided: 6 Failed: 0)
+2018-04-10 07:35 INFO     transmission  Movies          "Perfect Strangers (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-10 07:35 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-10 21:26 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2018-04-10 21:26 VERBOSE  details       TV              Produced 2 entries.
+2018-04-10 21:26 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` is already marked seen in the task TV at 2018-04-07 18:48
+2018-04-10 21:26 VERBOSE  task          TV              REJECTED: `Legion 2x01 Chapter 9 720p` by seen plugin because entry with title `Legion 2x01 Chapter 9 720p` is already marked seen in the task TV at 2018-04-04 22:17
+2018-04-10 21:26 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 2 Undecided: 0 Failed: 0)
+2018-04-10 21:26 VERBOSE  details       Movies          Produced 8 entries.
+2018-04-10 21:26 VERBOSE  task          Movies          REJECTED: `You Were Never Really Here (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-10 21:26 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-10 21:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `V.I.P. (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 21:26 WARNING  imdb_lookup   Movies          IMDB lookup failed for V.I.P. (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-10 21:26 INFO     imdb          Movies          Skipping V.I.P. (2017) [BluRay] [1080p] [YTS.AM] because of an error: Title `V.I.P. (2017) [BluRay] [1080p] [YTS.AM]` lookup failed
+2018-04-10 21:26 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Snorkel (1958) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 21:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0052207/
+2018-04-10 21:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Snorkel (1958) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 21:27 INFO     imdb          Movies          Didn't accept `The Snorkel` because of rule(s) min_year (1958 < 2016)
+2018-04-10 21:27 VERBOSE  imdb_lookup   Movies          Searching from imdb `Walk Hard: The Dewey Cox Story (2007) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 21:27 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0841046/
+2018-04-10 21:27 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Walk Hard: The Dewey Cox Story (2007) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 21:27 INFO     imdb          Movies          Didn't accept `Walk Hard: The Dewey Cox Story` because of rule(s) min_year (2007 < 2016), reject_genres
+2018-04-10 21:27 VERBOSE  imdb_lookup   Movies          Searching from imdb `Underworld U.S.A. (1961) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 21:27 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0055571/
+2018-04-10 21:27 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Underworld U.S.A. (1961) [BluRay] [1080p] [YTS.AM]`
+2018-04-10 21:27 INFO     imdb          Movies          Didn't accept `Underworld U.S.A.` because of rule(s) min_year (1961 < 2016)
+2018-04-10 21:27 INFO     imdb          Movies          Didn't accept `The Proud Ones` because of rule(s) min_year (1956 < 2016)
+2018-04-10 21:27 INFO     imdb          Movies          Didn't accept `Freaky Friday` because of rule(s) min_year (2003 < 2016), reject_genres
+2018-04-10 21:27 VERBOSE  details       Movies          Summary - Accepted: 0 (Rejected: 2 Undecided: 6 Failed: 0)
+2018-04-12 21:21 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-04-12 21:21 VERBOSE  details       TV              Produced 2 entries.
+2018-04-12 21:21 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` is already marked seen in the task TV at 2018-04-07 18:48
+2018-04-12 21:21 INFO     series        TV              identified_by has locked in to type `ep` for Legion
+2018-04-12 21:21 VERBOSE  task          TV              ACCEPTED: `Legion 2x02 Chapter 10 720p` by series plugin because choosing best available quality
+2018-04-12 21:21 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 1 Undecided: 0 Failed: 0)
+2018-04-12 21:21 INFO     transmission  TV              "Legion 2x02 Chapter 10 720p" torrent added to transmission
+2018-04-12 21:21 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-04-12 21:21 VERBOSE  details       Movies          Produced 11 entries.
+2018-04-12 21:21 VERBOSE  task          Movies          REJECTED: `Bomb City (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with url `https://yts.am/torrent/download/E7B217A3A2E54169F4B4D19080E510E61C51452A` is already marked seen in the task Movies at 2018-02-11 10:37
+2018-04-12 21:21 VERBOSE  task          Movies          REJECTED: `Bomb City (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with url `https://yts.am/torrent/download/E7B217A3A2E54169F4B4D19080E510E61C51452A` is already marked seen in the task Movies at 2018-02-11 10:37
+2018-04-12 21:21 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-12 21:21 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-12 21:21 VERBOSE  task          Movies          REJECTED: `Dead on Arrival (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-12 21:21 VERBOSE  task          Movies          REJECTED: `Big Time (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-12 21:21 VERBOSE  task          Movies          REJECTED: `For the Love of Benji (1977) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-12 21:21 VERBOSE  imdb_lookup   Movies          Searching from imdb `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-12 21:21 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt4500922/
+2018-04-12 21:21 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-12 21:21 VERBOSE  task          Movies          ACCEPTED: `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-12 21:21 VERBOSE  task          Movies          ACCEPTED: `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-12 21:21 VERBOSE  imdb_lookup   Movies          Searching from imdb `Bomb City (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-12 21:21 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt4351548/
+2018-04-12 21:21 VERBOSE  imdb_lookup   Movies          Movie `Bomb City` details expired, refreshing ...
+2018-04-12 21:21 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Bomb City (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-12 21:22 VERBOSE  task          Movies          ACCEPTED: `Bomb City (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-12 21:22 VERBOSE  task          Movies          ACCEPTED: `Bomb City (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-12 21:22 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-04-12 21:22 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-04-12 21:22 INFO     download      Movies          Downloading: Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-12 21:22 INFO     download      Movies          Downloading: Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-12 21:22 INFO     download      Movies          Downloading: Bomb City (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-12 21:22 INFO     download      Movies          Downloading: Bomb City (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-12 21:22 VERBOSE  details       Movies          Summary - Accepted: 4 (Rejected: 7 Undecided: 0 Failed: 0)
+2018-04-12 21:22 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` by seen_info_hash plugin because already accepted torrent with this infohash once for this task
+2018-04-12 21:22 VERBOSE  task          Movies          REJECTED: `Bomb City (2017) [BluRay] [1080p] [YTS.AM]` by seen_info_hash plugin because already accepted torrent with this infohash once for this task
+2018-04-12 21:22 INFO     transmission  Movies          "Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-12 21:22 INFO     transmission  Movies          "Bomb City (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-12 21:22 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-12 21:22 VERBOSE  utils.requests Movies          Waiting 4.00 seconds until next request to pushover.net
+2018-04-12 21:22 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-14 09:27 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2018-04-14 09:27 VERBOSE  details       TV              Produced 3 entries.
+2018-04-14 09:27 VERBOSE  task          TV              REJECTED: `Legion 2x02 Chapter 10 720p` by seen plugin because entry with title `Legion 2x02 Chapter 10 720p` is already marked seen in the task TV at 2018-04-12 21:21
+2018-04-14 09:27 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` is already marked seen in the task TV at 2018-04-07 18:48
+2018-04-14 09:27 VERBOSE  task          TV              ACCEPTED: `Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p` by series plugin because choosing best available quality
+2018-04-14 09:27 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 2 Undecided: 0 Failed: 0)
+2018-04-14 09:27 INFO     transmission  TV              "Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p" torrent added to transmission
+2018-04-14 09:27 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-04-14 09:27 VERBOSE  details       Movies          Produced 14 entries.
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-04-12 21:22
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-04-12 21:22
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Bomb City (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Bomb City (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-04-12 21:22
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Bomb City (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with url `https://yts.am/torrent/download/E7B217A3A2E54169F4B4D19080E510E61C51452A` is already marked seen in the task Movies at 2018-02-11 10:37
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Bomb City (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Bomb City (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-04-12 21:22
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Bomb City (2017) [WEBRip] [1080p] [YTS.AM]` by seen plugin because entry with url `https://yts.am/torrent/download/E7B217A3A2E54169F4B4D19080E510E61C51452A` is already marked seen in the task Movies at 2018-02-11 10:37
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Farewell Ferris Wheel (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Andre the Giant (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Don't Talk to Irene (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 09:27 VERBOSE  task          Movies          REJECTED: `Dead on Arrival (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 09:27 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Humanity Bureau (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-14 09:27 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt6143568/
+2018-04-14 09:27 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Humanity Bureau (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-14 09:27 VERBOSE  task          Movies          ACCEPTED: `The Humanity Bureau (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-14 09:27 VERBOSE  imdb_lookup   Movies          Searching from imdb `Blood Road (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-14 09:27 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt6900092/
+2018-04-14 09:27 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Blood Road (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-14 09:28 INFO     imdb          Movies          Didn't accept `Blood Road` because of rule(s) min_votes (144 < 500)
+2018-04-14 09:28 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-04-14 09:28 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-04-14 09:28 INFO     download      Movies          Downloading: The Humanity Bureau (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-14 09:28 VERBOSE  details       Movies          Summary - Accepted: 1 (Rejected: 12 Undecided: 1 Failed: 0)
+2018-04-14 09:28 INFO     transmission  Movies          "The Humanity Bureau (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-14 09:28 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-14 20:08 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2018-04-14 20:08 VERBOSE  details       TV              Produced 3 entries.
+2018-04-14 20:08 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p` is already marked seen in the task TV at 2018-04-14 09:27
+2018-04-14 20:08 VERBOSE  task          TV              REJECTED: `Legion 2x02 Chapter 10 720p` by seen plugin because entry with title `Legion 2x02 Chapter 10 720p` is already marked seen in the task TV at 2018-04-12 21:21
+2018-04-14 20:08 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x16 Inside Voices 720p` is already marked seen in the task TV at 2018-04-07 18:48
+2018-04-14 20:08 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 3 Undecided: 0 Failed: 0)
+2018-04-14 20:08 VERBOSE  details       Movies          Produced 13 entries.
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `The Humanity Bureau (2017) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `The Humanity Bureau (2017) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-04-14 09:28
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-04-12 21:22
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` by seen plugin because entry with title `Maze Runner: The Death Cure (2018) [BluRay] [1080p] [YTS.AM]` is already marked seen in the task Movies at 2018-04-12 21:22
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `The Last Movie Star (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `The Last Movie Star (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `Farewell Ferris Wheel (2016) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `Andre the Giant (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `Don't Talk to Irene (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `Maze Runner: The Death Cure (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-14 20:08 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Last Movie Star (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-14 20:08 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5836316/
+2018-04-14 20:08 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Last Movie Star (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-14 20:08 VERBOSE  task          Movies          ACCEPTED: `The Last Movie Star (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-14 20:08 VERBOSE  task          Movies          ACCEPTED: `The Last Movie Star (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-14 20:08 INFO     imdb          Movies          Didn't accept `Blood Road` because of rule(s) min_votes (144 < 500)
+2018-04-14 20:08 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-04-14 20:08 INFO     download      Movies          Downloading: The Last Movie Star (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-14 20:08 INFO     download      Movies          Downloading: The Last Movie Star (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-14 20:08 VERBOSE  details       Movies          Summary - Accepted: 2 (Rejected: 10 Undecided: 1 Failed: 0)
+2018-04-14 20:08 VERBOSE  task          Movies          REJECTED: `The Last Movie Star (2017) [BluRay] [1080p] [YTS.AM]` by seen_info_hash plugin because already accepted torrent with this infohash once for this task
+2018-04-14 20:08 INFO     transmission  Movies          "The Last Movie Star (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-14 20:08 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-17 20:21 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2018-04-17 20:21 VERBOSE  details       TV              Produced 2 entries.
+2018-04-17 20:21 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p` is already marked seen in the task TV at 2018-04-14 09:27
+2018-04-17 20:21 VERBOSE  task          TV              REJECTED: `Legion 2x02 Chapter 10 720p` by seen plugin because entry with title `Legion 2x02 Chapter 10 720p` is already marked seen in the task TV at 2018-04-12 21:21
+2018-04-17 20:21 VERBOSE  details       TV              Summary - Accepted: 0 (Rejected: 2 Undecided: 0 Failed: 0)
+2018-04-17 20:22 VERBOSE  details       Movies          Produced 12 entries.
+2018-04-17 20:22 VERBOSE  task          Movies          REJECTED: `The Secret Rules of Modern Living: Algorithms (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-17 20:22 VERBOSE  task          Movies          REJECTED: `Secrets in the Fall (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-17 20:22 VERBOSE  task          Movies          REJECTED: `Den of Thieves (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-17 20:22 VERBOSE  task          Movies          REJECTED: `Den of Thieves (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-17 20:22 VERBOSE  task          Movies          REJECTED: `12 Strong (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-17 20:22 VERBOSE  imdb_lookup   Movies          Searching from imdb `Suicide Squad: Hell to Pay (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:22 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt7167602/
+2018-04-17 20:22 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Suicide Squad: Hell to Pay (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:23 VERBOSE  task          Movies          ACCEPTED: `Suicide Squad: Hell to Pay (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-17 20:23 VERBOSE  imdb_lookup   Movies          Searching from imdb `Den of Thieves (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:23 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1259528/
+2018-04-17 20:23 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Den of Thieves (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:24 VERBOSE  task          Movies          ACCEPTED: `Den of Thieves (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-17 20:24 VERBOSE  task          Movies          ACCEPTED: `Den of Thieves (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-17 20:24 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Return of Ringo (1965) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:24 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0060903/
+2018-04-17 20:24 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Return of Ringo (1965) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:24 INFO     imdb          Movies          Didn't accept `The Return of Ringo` because of rule(s) min_year (1965 < 2016)
+2018-04-17 20:24 VERBOSE  imdb_lookup   Movies          Searching from imdb `A Pistol for Ringo (1965) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0059601/
+2018-04-17 20:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `A Pistol for Ringo (1965) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:25 INFO     imdb          Movies          Didn't accept `A Pistol for Ringo` because of rule(s) min_year (1965 < 2016)
+2018-04-17 20:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `Lick the Star (1998) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt7798658/
+2018-04-17 20:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Lick the Star (1998) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:25 INFO     imdb          Movies          Didn't accept `Hold Back the Stars` because of rule(s) min_score (0.0 < 6.1), min_votes (0 < 500), min_year (0 < 2016)
+2018-04-17 20:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `Angel and the Badman (1947) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0039152/
+2018-04-17 20:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Angel and the Badman (1947) [BluRay] [1080p] [YTS.AM]`
+2018-04-17 20:26 INFO     imdb          Movies          Didn't accept `Angel and the Badman` because of rule(s) min_year (1947 < 2016)
+2018-04-17 20:26 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-04-17 20:26 INFO     download      Movies          Downloading: Suicide Squad: Hell to Pay (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-17 20:26 INFO     download      Movies          Downloading: Den of Thieves (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-17 20:26 INFO     download      Movies          Downloading: Den of Thieves (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-17 20:26 VERBOSE  details       Movies          Summary - Accepted: 3 (Rejected: 5 Undecided: 4 Failed: 0)
+2018-04-17 20:26 VERBOSE  task          Movies          REJECTED: `Den of Thieves (2018) [BluRay] [1080p] [YTS.AM]` by seen_info_hash plugin because already accepted torrent with this infohash once for this task
+2018-04-17 20:26 INFO     transmission  Movies          "Suicide Squad: Hell to Pay (2018) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-17 20:26 INFO     transmission  Movies          "Den of Thieves (2018) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-17 20:26 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-17 20:27 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-18 22:56 VERBOSE  task_queue                    There are 2 tasks to execute. Shutdown will commence when they have completed.
+2018-04-18 22:56 VERBOSE  details       TV              Produced 3 entries.
+2018-04-18 22:56 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p` is already marked seen in the task TV at 2018-04-14 09:27
+2018-04-18 22:56 VERBOSE  task          TV              REJECTED: `Legion 2x02 Chapter 10 720p` by seen plugin because entry with title `Legion 2x02 Chapter 10 720p` is already marked seen in the task TV at 2018-04-12 21:21
+2018-04-18 22:56 VERBOSE  task          TV              ACCEPTED: `Legion 2x03 Chapter 11 720p` by series plugin because choosing best available quality
+2018-04-18 22:57 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 2 Undecided: 0 Failed: 0)
+2018-04-18 22:57 INFO     transmission  TV              "Legion 2x03 Chapter 11 720p" torrent added to transmission
+2018-04-18 22:57 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-04-18 22:57 VERBOSE  details       Movies          Produced 12 entries.
+2018-04-18 22:57 VERBOSE  task          Movies          REJECTED: `Hostiles (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-18 22:57 VERBOSE  task          Movies          REJECTED: `Hostiles (2017) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-18 22:57 VERBOSE  task          Movies          REJECTED: `12 Strong (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-18 22:57 VERBOSE  task          Movies          REJECTED: `12 Strong (2018) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-18 22:57 VERBOSE  imdb_lookup   Movies          Searching from imdb `Peter Rabbit (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:57 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5117670/
+2018-04-18 22:57 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Peter Rabbit (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:57 VERBOSE  task          Movies          ACCEPTED: `Peter Rabbit (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-18 22:57 VERBOSE  imdb_lookup   Movies          Searching from imdb `Love Songs (2007) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:57 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0996605/
+2018-04-18 22:57 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Love Songs (2007) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:58 INFO     imdb          Movies          Didn't accept `Love Songs` because of rule(s) min_year (2007 < 2016), reject_genres
+2018-04-18 22:58 VERBOSE  imdb_lookup   Movies          Searching from imdb `Hostiles (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:58 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5478478/
+2018-04-18 22:58 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Hostiles (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:58 VERBOSE  task          Movies          ACCEPTED: `Hostiles (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-18 22:58 VERBOSE  task          Movies          ACCEPTED: `Hostiles (2017) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-18 22:58 VERBOSE  imdb_lookup   Movies          Searching from imdb `89 (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:58 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt7614404/
+2018-04-18 22:58 VERBOSE  imdb_lookup   Movies          Parsing imdb for `89 (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:58 INFO     imdb          Movies          Didn't accept `89` because of rule(s) min_votes (174 < 500)
+2018-04-18 22:58 VERBOSE  imdb_lookup   Movies          Searching from imdb `12 Strong (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:58 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt1413492/
+2018-04-18 22:58 VERBOSE  imdb_lookup   Movies          Parsing imdb for `12 Strong (2018) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:59 VERBOSE  task          Movies          ACCEPTED: `12 Strong (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-18 22:59 VERBOSE  task          Movies          ACCEPTED: `12 Strong (2018) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-18 22:59 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Foster Boy (2011) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:59 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt2057931/
+2018-04-18 22:59 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Foster Boy (2011) [BluRay] [1080p] [YTS.AM]`
+2018-04-18 22:59 INFO     imdb          Movies          Didn't accept `The Foster Boy` because of rule(s) min_year (2011 < 2016)
+2018-04-18 22:59 VERBOSE  exists_movie  Movies          Scanning path /mnt/timecapsule/Videos/Movies ...
+2018-04-18 22:59 VERBOSE  exists_movie  Movies          No items with type dirs were found in /mnt/timecapsule/Videos/Movies
+2018-04-18 22:59 INFO     download      Movies          Downloading: Peter Rabbit (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-18 22:59 INFO     download      Movies          Downloading: Hostiles (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-18 22:59 INFO     download      Movies          Downloading: Hostiles (2017) [BluRay] [1080p] [YTS.AM]
+2018-04-18 22:59 INFO     download      Movies          Downloading: 12 Strong (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-18 22:59 INFO     download      Movies          Downloading: 12 Strong (2018) [BluRay] [1080p] [YTS.AM]
+2018-04-18 22:59 VERBOSE  details       Movies          Summary - Accepted: 5 (Rejected: 4 Undecided: 3 Failed: 0)
+2018-04-18 22:59 VERBOSE  task          Movies          REJECTED: `Hostiles (2017) [BluRay] [1080p] [YTS.AM]` by seen_info_hash plugin because already accepted torrent with this infohash once for this task
+2018-04-18 22:59 VERBOSE  task          Movies          REJECTED: `12 Strong (2018) [BluRay] [1080p] [YTS.AM]` by seen_info_hash plugin because already accepted torrent with this infohash once for this task
+2018-04-18 22:59 INFO     transmission  Movies          "Peter Rabbit (2018) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-18 22:59 INFO     transmission  Movies          "Hostiles (2017) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-18 22:59 INFO     transmission  Movies          "12 Strong (2018) [BluRay] [1080p] [YTS.AM]" torrent added to transmission
+2018-04-18 22:59 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-18 23:00 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-18 23:00 VERBOSE  notify        Movies          Successfully sent a notification to `pushover`
+2018-04-21 08:22 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2018-04-21 08:23 VERBOSE  details       TV              Produced 4 entries.
+2018-04-21 08:23 VERBOSE  task          TV              REJECTED: `Legion 2x03 Chapter 11 720p` by seen plugin because entry with title `Legion 2x03 Chapter 11 720p` is already marked seen in the task TV at 2018-04-18 22:57
+2018-04-21 08:23 VERBOSE  task          TV              REJECTED: `Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p` by seen plugin because entry with title `Marvel's Agents of S.H.I.E.L.D. 5x17 The Honeymoon 720p` is already marked seen in the task TV at 2018-04-14 09:27
+2018-04-21 08:23 VERBOSE  task          TV              REJECTED: `Legion 2x02 Chapter 10 720p` by seen plugin because entry with title `Legion 2x02 Chapter 10 720p` is already marked seen in the task TV at 2018-04-12 21:21
+2018-04-21 08:23 VERBOSE  task          TV              ACCEPTED: `Marvel's Agents of S.H.I.E.L.D. 5x18 All Roads Lead… 720p` by series plugin because choosing best available quality
+2018-04-21 08:23 VERBOSE  details       TV              Summary - Accepted: 1 (Rejected: 3 Undecided: 0 Failed: 0)
+2018-04-21 08:23 INFO     transmission  TV              "Marvel's Agents of S.H.I.E.L.D. 5x18 All Roads Lead… 720p" torrent added to transmission
+2018-04-21 08:23 VERBOSE  notify        TV              Successfully sent a notification to `pushover`
+2018-04-21 08:24 VERBOSE  details       Movies          Produced 8 entries.
+2018-04-21 08:24 VERBOSE  task          Movies          REJECTED: `Greener Mountains (2005) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-21 08:24 VERBOSE  task          Movies          REJECTED: `The Bugs Bunny/Road-Runner Movie (1979) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-21 08:24 VERBOSE  task          Movies          REJECTED: `Jago: A Life Underwater (2015) [WEBRip] [1080p] [YTS.AM]` by quality plugin because 1080p webrip does not match quality requirement [<Requirements(1080p bluray)>]
+2018-04-21 08:24 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Childhood of a Leader (2015) [BluRay] [1080p] [YTS.AM]`
+2018-04-21 08:25 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt2815902/
+2018-04-21 08:25 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Childhood of a Leader (2015) [BluRay] [1080p] [YTS.AM]`
+2018-04-21 08:25 INFO     imdb          Movies          Didn't accept `The Childhood of a Leader` because of rule(s) min_year (2015 < 2016)
+2018-04-21 08:25 VERBOSE  imdb_lookup   Movies          Searching from imdb `September (1987) [BluRay] [1080p] [YTS.AM]`
+2018-04-21 08:26 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0093940/
+2018-04-21 08:26 VERBOSE  imdb_lookup   Movies          Parsing imdb for `September (1987) [BluRay] [1080p] [YTS.AM]`
+2018-04-21 08:28 INFO     imdb          Movies          Didn't accept `September` because of rule(s) min_year (1987 < 2016)
+2018-04-21 08:28 VERBOSE  imdb_lookup   Movies          Searching from imdb `Loving (2016) [BluRay] [1080p] [YTS.AM]`
+2018-04-21 08:28 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt4669986/
+2018-04-21 08:28 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Loving (2016) [BluRay] [1080p] [YTS.AM]`
+2018-04-21 08:29 VERBOSE  task          Movies          ACCEPTED: `Loving (2016) [BluRay] [1080p] [YTS.AM]` by imdb plugin
+2018-04-21 08:29 VERBOSE  imdb_lookup   Movies          Searching from imdb `Love and Other Cults (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-21 08:29 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt5645536/
+2018-04-21 08:29 VERBOSE  imdb_lookup   Movies          Parsing imdb for `Love and Other Cults (2017) [BluRay] [1080p] [YTS.AM]`
+2018-04-21 08:30 INFO     imdb          Movies          Didn't accept `Love and Other Cults` because of rule(s) min_votes (57 < 500)
+2018-04-21 08:30 VERBOSE  imdb_lookup   Movies          Searching from imdb `The Awful Truth (1937) [BluRay] [1080p] [YTS.AM]`
+2018-04-21 08:30 VERBOSE  imdb_lookup   Movies          Found http://www.imdb.com/title/tt0028597/
+2018-04-21 08:30 VERBOSE  imdb_lookup   Movies          Parsing imdb for `The Awful Truth (1937) [BluRay] [1080p] [YTS.AM]`

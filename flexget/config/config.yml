@@ -1,0 +1,45 @@
+tasks:
+  Movies:
+    rss: https://yts.am/rss/0/1080p/all/6
+    quality: 1080p bluray
+    imdb:
+      min_score: 6.1
+      min_votes: 500
+      min_year: 2016
+      reject_genres:
+        - musical
+        - music
+    exists_movie:
+      path: /mnt/timecapsule/Videos/Movies
+    transmission:
+      host: 10.0.1.10
+      port: 9090 
+#      username: joel
+#      password: soeusei
+      path: /mnt/timecapsule/Videos/Movies
+    notify:
+      entries:
+        title: Downloading {{movie_name}}
+        via:
+          - pushover:
+              user_key: zL0vef3wuUyhXBQROFKdB0yVw3IKyi
+              api_key: Hsf6em0N2FrHx7ZNSSGUDObmv9GokZ
+              priority: 1
+  TV:
+    rss: http://showrss.info/user/3601.rss?magnets=true&namespaces=true&name=clean&quality=hd&re=no
+    all_series: yes
+    transmission:
+      host: 10.0.1.10
+      port: 9090
+#      username: joel
+#      password: soeusei
+      path: /mnt/timecapsule/Videos/TV-Shows/{{series_name}}/Season {{"%01d"|format(series_season)}}
+    notify:
+      entries:
+        title: Downloading {{series_name}}
+        message: Episode {{series_id}}
+        via:
+          - pushover:
+              user_key: zL0vef3wuUyhXBQROFKdB0yVw3IKyi
+              api_key: Hsf6em0N2FrHx7ZNSSGUDObmv9GokZ
+              priority: 1
